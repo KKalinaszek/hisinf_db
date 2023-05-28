@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block page_content %}
+<h1>Tablice</h1>
+<div>
+    {% for board in boards %}
+    <div class="board">
+        <a href="{% url 'board' board.pk %}">
+            <h2>{{ board.no }}{{ board.page }} {{ board.title }}</h2>
+        </a>
+    </div>
+{% endfor %}
+</div>
+{% endblock %}

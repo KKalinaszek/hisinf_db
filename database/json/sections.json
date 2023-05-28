@@ -1,0 +1,639 @@
+[
+    {
+        "no": 1,
+        "page": "A",
+        "title": "Liczby",
+        "text": "Wiele wieków p.n.e. w Mezopotamii, Sumerowie i Elamici oznaczali cyfry za pomocą kamyków lub glinianych żetonów, a około 3000 lat p.n.e. w charakterze znaków liczbowych zaczęli stosować piktogramy, które były uproszczonymi obrazkami m.in. części ciała, narzędzi i różnych elementów przyrody martwej i ożywionej. Mniej więcej w tym samym czasie, przypadającym na epokę faraonów, również Egipcjanie niezależnie wynaleźli pismo i znaki liczbowe, które podobnie miały postać piktogramów, zwanych hieroglifami, uproszczonych następnie do postaci znaków hieratycznych. Pochodzące z XV wieku p.n.e. znaleziska zapisane znakami hieratycznymi, takie jak Papirus Rhinda (zwany też papirusem Ahmesa, od nazwiska pisarza, który go skopiował ze starszego papirusu) wskazują na wysoki poziom matematyki egipskiej. Potrafiono mnożyć i dzielić liczby całkowite posługując się podwajaniem i dodawaniem – jakby drugi argument działania był przedstawiony w postaci binarnej – posługiwano się również ułamkami, w tym ułamkami o liczniku 1 (znanymi obecnie jako ułamki egipskie). Podobne systemy znaków liczbowych wynalazły niezależnie również inne cywilizacje w innych okresach czasu, m.in. minojska (Kreta, 2200 – 1400 r. p.n.e.) i aztecka (Meksyk, XV wiek n.e.)."
+    },
+    {
+        "no": 1,
+        "page": "A",
+        "title": "Abak",
+        "text": "Największą rolę w rozwoju pierwszych narzędzi służących do obliczeń odegrały kamyki. Kamyk, kamyczek to po łacinie calculus – co brzmi jak rdzeń wielu słów w wielu językach, związanych z obliczeniami, np. kalkulować, gdyż oznacza również rachunek. Początkowo kamyki układano w stosy. Z czasem zaczęto je układać na „planszach”, które służyły do wykonywania obliczeń – były to pierwsze abaki. Mogła to być odpowiednio przygotowana powierzchnia piasku lub kamienia (np. marmuru), na której zaznaczano pionowe lub poziome rowki i w nich układano kamyki – poszczególne rzędy odpowiadały zwykle (np. w starorzymskich abakach) określonej potędze liczby 10. Abaki nie wymagały wprowadzenia zera – odpowiadało mu puste miejsce w rzędzie."
+    },
+    {
+        "no": 1,
+        "page": "A",
+        "title": "Algorytmy",
+        "text": "Można powiedzieć, że algorytm jest zbiorem poleceń wykonywanych dość automatycznie, krok po kroku, aby otrzymać pożądany wynik. Algorytm może występować jako: zbiór zasad, przepis, technika, metoda, procedura, proces itp.\nWykonujemy często algorytmy nie zdając sobie nawet z tego sprawy. Szczegółowy opis algorytmu może być przekazywany innym do stosowania, dzisiaj wiele algorytmów jest wykonywanych przez komputery.\nAlgorytmami posługiwano się znacznie wcześniej niż wymyślono dla nich nazwę. Już Babilończycy używali algorytmów nie tylko w obliczeniach matematycznych, ale również w innych dziedzinach życia, takich jak stosowanie prawa, nauka gramatyki języka, przewidywanie przyszłości, porady medyczne i przygotowywanie potraw. Wśród osiągnięć matematyków greckich, żyjących w ostatnich pięciu wiekach przed naszą erą, znajdują się przepisy służące do wykonania pewnych obliczeń. Do najpopularniejszych algorytmów, wynalezionych w starożytności należą algorytm Euklidesa i sito Eratostenesa. W obu tych algorytmach obliczenia są wykonywane na liczbach naturalnych, a celem ich działania jest znalezienie pewnych liczb związanych z podzielnością."
+    },
+    {
+        "no": 1,
+        "page": "B",
+        "title": "Rozwój znaków liczbowych",
+        "text": "Krokiem wstecz stosunku do osiągnięć Babilonu był wynalazek cyfr greckich z okresu Homera (IX i VIII wiek p.n.e.) i cyfr rzymskich (pochodzenia etruskiego z V wieku p.n.e.), popularnych do dzisiaj, które służyły głównie do zapisywania i przechowywania liczb. Przypuszcza się, że były one pozostałością po czasach oznaczania liczb jako nacięć. Trudniej było z ich pomocą wykonywać działania matematyczne, co spowodowało, że w rachunkach posługiwano się raczej abakami z żetonami.\nNiektóre systemy oznaczania cyfr i zapisywania liczb powstały na bazie pisma alfabetycznego. Alfabet wynaleźli Fenicjanie około roku 1500 p.n.e. i uważa się, że pochodzi od niego większość alfabetów, w tym staroarabski, syryjski, żydowski i grecki. Żydzi wpadli na pomysł oznaczenia liczb za pomocą liter swojego alfabetu i ta notacja jest do dzisiaj stosowana przy pisaniu dat według ich kalendarza oraz przy numerowaniu ustępów i wersetów Starego Testamentu oraz stronic dzieł wydanych po hebrajsku. Alfabet liczbowy mieli również Grecy, a także muzułmanie, którzy opierali się na modelu greckim i rzymskim. Muzułmański alfabet liczbowy był stosowany w najnowszych czasach, równocześnie z cyframi, zwanymi arabskimi. Nieco inny charakter ma chińska numeracja pisana, wynaleziona przeszło 3000 lat temu i stosowana do dzisiaj, również w Japonii."
+    },
+    {
+        "no": 1,
+        "page": "B",
+        "title": "Pierwsze „maszyny” do liczenia",
+        "text": "Ludzie od dawna w swoich zajęciach praktycznych potrzebowali rachować, w znaczeniu odliczać, różne rzeczy, takie jak zdobycze i łupy z walk czy zwierzęta, które hodowali i wymieniali na inne towary. Na początku stosowano w tym celu palce u rąk i ich człony, a dla zwiększenia zakresu liczb – również palce u nóg, a także inne części ciała. Z czasem pojawiła się naturalna konieczność trwałego zaznaczania liczb i wyników obliczeń. Najstarsze znane metody polegały na stosowaniu nacięć na kościach, kawałkach drewna lub wyżłobień na kamieniach. Co ciekawe, nacięcia na drewnie dla oznaczania liczb stosowano w Europie jeszcze w XIX wieku.\nNacięcia i wyżłobienia w różnych materiałach nie uznaje się jednak za pierwowzór znaków, które można by uznać za graficzne znaki cyfr.\n        Popularnym sposobem zapisywania liczb i wykonywania na nich obliczeń w większości cywilizacji przeszłości było posługiwanie się sznureczkami z węzełkami. Stosowano je na Bliskim Wschodzie w V wieku p.n.e. i nawet nieco wcześniej na Dalekim Wschodzie, gdzie ten sposób rachowania do dzisiaj nie całkiem zanikł. Najdoskonalsze sznureczki z węzełkami, zwane quipu, stosowano w cywilizacji Inków w pierwszej połowie drugiego tysiąclecia naszej ery. Oznaczano za ich pomocą liczby przedstawiane na bazie systemu dziesiętnego (ale w sposób addytywny) i używano ich głównie w administracji jako archiwa budżetowe. Udoskonalonym quipu, zwanym chimpu, posługują się jeszcze dzisiaj Indianie boliwijscy i peruwiańscy."
+    },
+    {
+        "no": 2,
+        "page": "A",
+        "title": "Cyfry arabskie",
+        "text": "Za kolebkę używanych obecnie cyfr, zwanych arabskimi, w tym zera, i pozycyjnego systemu zapisywania liczb, uważa się powszechnie Indie, gdzie te odkrycia pojawiły się w V – I wieku p.n.e. a osiągnęły swoją dojrzałą postać w V – VI wieku n.e. Nieco później (wiek VIII n.e.) Hindusi zaczęli stosować liczby ujemne, chociaż przez wiele wieków nie uznawano na przykład rozwiązań równań w liczbach ujemnych. Następne pięć wieków (VIII – XIII) to okres świetności nauki w świecie muzułmańskim. Arabowie interesowali się osiągnięciami świata starożytnego, poznali odkrycia Hindusów (de numero Indorum – indyjską sztukę rachowania) i sami rozwinęli wiele pomysłów matematycznych. Jednym z czołowych matematyków arabskich był Muhammad ibn Musa al-Khwarizmi (ok. 787 – ok. 847 n.e.), który przyczynił się do rozpowszechnienia dziesiętnego systemu pozycyjnego i metod rachunkowych pochodzenia indyjskiego zarówno w świecie arabskim, jak i później w Europie. Same cyfry (nazwa pochodzi o słowa arabskiego as sifr) pochodzą od Arabów, którzy zamieszkiwali w Afryce północnej i w Hiszpanii. Wprowadził je w Europie papież Sylwester II (Gerbert d’Aurillac, ok. 947 – ok. 1003 n.e.), ale musiało upłynąć ponad 200 lat, zanim w Europie zaczęto w pełni korzystać z dziesiętnego systemu zapisu liczb i zera oraz z metod rachunkowych pochodzących z Indii. Przysłużył się temu wielce Fibonacci (Leonardo z Pizy, ok. 1180 – ok. 1250 n.e.) swoim dziełem Liber abaci."
+    },
+    {
+        "no": 2,
+        "page": "A",
+        "title": "Sposoby rachowania: Od dodawania do mnożenia wielocyfrowych liczb",
+        "text": "Mnożenie przez siebie liczb wielocyfrowych i działanie odwrotne, dzielenie, od zarania dziejów sprawiały człowiekowi wiele trudności. Próbowano więc radzić sobie na wiele różnych sposobów, również za pomocą różnorodnych diagramów i przyborów. Podstawą większości wczesnych metod obliczania iloczynu liczb wielocyfrowych było w oczywisty sposób zastąpienie mnożenia przez wielokrotne dodawanie. Składniki tego dodawania wyznaczano na różne sposoby, np. jako iloczyny jednego z czynników przez odpowiednie potęgi liczby 2 (otrzymywane w wyniku wielokrotnego podwajania czynnika, czyli dodawania do siebie) lub jako iloczyny jednego z czynników przez pojedyncze cyfry. Ten pierwszy sposób jest czasem nazywany metodą rosyjskich chłopów, ten drugi zaś odnajdujemy w bardzo starych tabliczkach mnożenia, stosowanych do mnożenia, zwanych obecnie gelosia. Tabliczki do mnożenia były tak oczywistym sposobem, że obecnie odnaleźć je można niemal w każdej cywilizacji starożytnej i późniejszych, jak również w Europie. Na przełomie XVI i XVII wieku, John Napier (Neper) 1550-1617, dla uproszczenia złożonych obliczeń m.in. w astronomii i geodezji, wynalazł proste narzędzie służące do szybkiego wykonywania mnożeń wielocyfrowych liczb przez jednocyfrową liczbę za pomocą ciągu dodawań. Składało się ono z pałeczek zrobionych z drewna, stąd pałeczki Napiera."
+    },
+    {
+        "no": 2,
+        "page": "A",
+        "title": "Sposoby rachowania: Pałeczki Napiera i tablice logarytmiczne",
+        "text": "Dla bogatszych użytkowników zaś wytwarzano je z kości słoniowej – stąd kości Napiera. Często te pałeczki (kości) układano w pudełkach lub skrzyneczkach – tworzyły one w ten sposób tabliczki Napiera. W pałeczkach Napiera odnaleźć można fizyczną realizację znacznie wcześniej używanych tabliczek mnożenia. Opis swojego wynalazku Napier zawarł w dziele Rabdologiae, które wydał tuż przed swoją śmiercią, bał się bowiem, że ktoś mógłby przypisać sobie jego wynalazek. Pałeczki Napiera były popularne przez 200 lat, wykorzystało je również wielu konstruktorów w swoich urządzeniach liczących, m.in. Wilhelm Schickard. John Napier jest uznawany również za wynalazcę logarytmów (logarytm, od gr. słów logos i arithmos), dzięki którym mnożenie i dzielenie można zastąpić dodawaniem i odejmowaniem. Do tego przydatne są tablice, zawierające logarytmy z liczb. Napier opublikował pierwsze tablice logarytmiczne w 1614 roku. Swój początkowy pomysł udoskonalił później wspólnie z matematykiem Henry Briggsem, który główne dzieło na temat logarytmów wydał już po śmierci Napiera. Logarytmami Napiera zainteresował się astronom Johannes Kepler, pracujący nad tablicami astronomicznymi (opublikował je jako Rudolphine Tables w 1628 roku). Niezależnie od Napiera, ale w nieco inny sposób, logarytmy wprowadził również szwajcarski konstruktor zegarów i aparatów matematycznych Jost Bürgi, którego pomysł spisał J. Kepler w 1620 roku. Kepler podał również ścisłe uzasadnienie poprawności zasad logarytmowania. Jak napisał francuski matematyk Pierre S. de Laplace (1749-1827), wynalazek logarytmów podwoił długość życia astronomów."
+    },
+    {
+        "no": 2,
+        "page": "A",
+        "title": "Abakus czy algorytm",
+        "text": "Kilka wieków trwał spór między „abacystami”, którzy starali się zachować abaki (czyli wykonywanie rachunków za pomocą żetonów na planszach), a „algorystami”, którzy dążyli do wprowadzenia rachunków na piśmie za pomocą cyfr arabskich („algoryzmem” nazywano rachunki pisane, spopularyzowane przez al-Khwarizmiego).\nŚredniowieczną wiarę w to, co jest oparte na sztuce liczenia, określano słowami dixit algorizmi, czyli „tak powiada algorytm”, a oznaczało to jasność prezentacji i gwarantowało poprawność wykonania. Od tych słów rozpoczyna się jeden z łacińskich przekładów księgi do rachunków al-Khwarizmiego. Wielu autorów księgi do rachunków tytułowało Algorismus, a po polsku – Algoritmus lub Algorithm."
+    },
+    {
+        "no": 2,
+        "page": "B",
+        "title": "Abaki, liczydła dawniej",
+        "text": "Największą rolę w rozwoju pierwszych narzędzi służących do obliczeń odegrały kamyki. Kamyk, kamyczek to po łacinie calculus – co brzmi jak rdzeń wielu słów w wielu językach, związanych z obliczeniami, np. kalkulować, gdyż oznacza również rachunek. Początkowo kamyki układano w stosy. Z czasem zaczęto je układać na „planszach”, które służyły do wykonywania obliczeń – były to pierwsze abaki.\nMogła to być odpowiednio przygotowana powierzchnia piasku lub kamienia (np. marmuru), na której zaznaczano pionowe lub poziome rowki i w nich układano kamyki – poszczególne rzędy odpowiadały zwykle (np. w starorzymskich abakach) określonej potędze liczby 10. Abaki nie wymagały wprowadzenia zera – odpowiadało mu puste miejsce w rzędzie. Z czasem abaki stały się przenośne dzięki zmniejszeniu ich wielkości – przykładem jest tutaj abak z Salamis (V – IV w. p.n.e.). Później wprowadzono pręty, na które nawlekano żetony zrobione z różnych materiałów, co umożliwiało utrzymywanie ich w odpowiednich miejscach względem siebie, stan obliczeń w abakach określa bowiem rozmieszczenie elementów ruchomych (kamieni, żetonów) na piasku lub na prętach. Abaki rozwinęły się niezależnie w różnych częściach świata, istnieje wiele różnych ich odmian i na ogół są znane pod swoimi lokalnymi nazwami. W Chinach jest to suan-pan, w Rosji – szczoty (wynalezione w XVII wieku), a w Japonii – soroban."
+    },
+    {
+        "no": 2,
+        "page": "B",
+        "title": "Abaki, liczydła dziś",
+        "text": "Współczesne abaki stosowane w Polsce, jak również różne ich odmiany używane w innych krajach, są nazywane liczydłami. W wielu krajach liczydła były powszechnie stosowane jeszcze w drugiej połowie XX wieku i do dzisiaj np. w Japonii i w Rosji nie całkowicie zostały wyparte przez kalkulatory elektroniczne. W Japonii, uznawanej za kraj powszechnej elektronizacji, soroban jest nadal wykorzystywany w małych sklepikach rodzinnych oraz w niektórych urzędach (np. na poczcie) i zapoznają się z jego stosowaniem dzieci w szkołach."
+    },
+    {
+        "no": 2,
+        "page": "B",
+        "title": "Suwak logarytmiczny",
+        "text": "Krótko po wynalezieniu logarytmów, w 1624 roku matematyk angielski Edmund Gunter (1581 – 1626) opisał linijkę logarytmiczną, czyli linijkę ze skalą logarytmiczną. W 1632 roku inny matematyk angielski William Oughtred (1575 - 1660), skonstruował pierwszy suwak logarytmiczny w postaci walca (ang. Circle of Proportion), a dwa lata później wykorzystał dwie linijki Guntera do zbudowania suwaka logarytmicznego w postaci dwóch przesuwających się wzdłuż siebie linijek logarytmicznych, co umożliwiło wykonywanie mnożeń i dzieleń za pomocą dodawań i odejmowań. Suwak logarytmiczny jest przykładem analogowego narzędzia matematycznego (obliczeniowego), w którym wielkości występujące w obliczeniach i wyniki obliczeń określa się na podstawie pomiarów długości odpowiednich odcinków. Innym przykładem urządzenia analogowego jest tradycyjny zegarek ze wskazówkami – położenie wskazówek i wielkość kąta między nimi określają godziny i minuty."
+    },
+    {
+        "no": 3,
+        "page": "A",
+        "title": "Wilhelm Schickard: Pierwsza mechaniczna maszyna licząca",
+        "text": "Za twórcę pierwszej w historii mechanicznej maszyny liczącej jest uznawany Wilhelm Schickard. Zbudował on czterodziałaniową maszynę, zwaną zegarem liczącym, za pomocą której można było dodawać i odejmować liczby sześciocyfrowe. Maszyna ta miała pomóc Johannesowi Keplerowi w jego astronomicznych (dosłownie i w przenośni) rachunkach. Niestety jedyny zbudowany z drewna egzemplarz maszyny spłonął w niewyjaśnionych okolicznościach."
+    },
+    {
+        "no": 3,
+        "page": "A",
+        "title": "Blaise Pascal i Gottfried Wilhelm Leibniz: Matematycy i twórcy maszyn liczących",
+        "text": "W XVII wieku żyli i tworzyli dwaj wielcy matematycy Blaise Pascal i Gottfried Wilhelm Leibniz, którym zainteresowania teoretyczne nie przeszkadzały w zajmowaniu się także praktycznymi obliczeniami i dzisiaj obaj są znani również ze zbudowanych przez siebie maszyn liczących."
+    },
+    {
+        "no": 3,
+        "page": "A",
+        "title": "Pascalina: Praktyczna maszyna licząca zbudowana przez Pascala",
+        "text": "Pascal mając 18 lat zainteresował się zbudowaniem maszyny liczącej, wykonującej głównie dodawania, z myślą o dopomożeniu swojemu ojcu, który był poborcą podatkowym. Pierwszy egzemplarz takiej maszyny ukończył w 1645 roku i przez następne 10 lat wyprodukowano około 50 egzemplarzy Pascaliny. Kilka egzemplarzy istnieje w muzeach do dzisiaj. Pascalina swoją budową przypomina liczniki odległości – zbudowana jest z kół zębatych, sprzężonych ze sobą tak, by możliwe było przenoszenie cyfr. Interesujące jest, że jeszcze na początku XX wieku budowano sumatory w oparciu o pomysł Pascala, ale nie odniosły one specjalnego sukcesu rynkowego."
+    },
+    {
+        "no": 3,
+        "page": "A",
+        "title": "Odkrycie Schickarda i rozwój maszyn liczących: Pascala i Schickarda, pionierzy w dziedzinie",
+        "text": "Przez ponad trzysta lat Pascal uchodził niesłusznie za wynalazcę pierwszej mechanicznej maszyny do liczenia, gdyż nie wiedziano o wynalazku Schickarda. Dowiedziano się o tym dopiero pod koniec lat 50. XX wieku, po odczytaniu listów Schickarda do Keplera, znajdujących się w zbiorach carycy Katarzyny II. W tym samym czasie odnaleziono również w Niemczech szkice przygotowane przez Schickarda dla osoby, która miała wykonać jego maszynę, i dopiero na podstawie tych dokumentów zbudowano repliki maszyny Schickarda. Schickard i Pascal wprowadzili w swoich maszynach mechanizm do przenoszenia cyfr przy dodawaniu. Obie maszyny miały także pewne możliwości zapamiętywania niektórych wyników pośrednich."
+    },
+    {
+        "no": 3,
+        "page": "A",
+        "title": "Maszyna Leibniza: Mechaniczna innowacja w mnożeniu i zastosowaniu bębna schodkowego",
+        "text": "Przez ponad trzysta lat Pascal uchodził niesłusznie za wynalazcę pierwszej mechanicznej maszyny do liczenia, gdyż nie wiedziano o wynalazku Schickarda. Dowiedziano się o tym dopiero pod koniec lat 50. XX wieku, po odczytaniu listów Schickarda do Keplera, znajdujących się w zbiorach carycy Katarzyny II. W tym samym czasie odnaleziono również w Niemczech szkice przygotowane przez Schickarda dla osoby, która miała wykonać jego maszynę, i dopiero na podstawie tych dokumentów zbudowano repliki maszyny Schickarda. Schickard i Pascal wprowadzili w swoich maszynach mechanizm do przenoszenia cyfr przy dodawaniu. Obie maszyny miały także pewne możliwości zapamiętywania niektórych wyników pośrednich.\n Leibniz ukończył budowę swojej czterodziałaniowej maszyny w 1694 roku, po ponad 20 latach wysiłków. Była to pierwsza w pełni mechaniczna maszyna do mnożenia, mnożna była bowiem automatycznie dodawana do akumulatora. W maszynie tej wprowadził wiele części, które były stosowane w późniejszych maszynach do liczenia, m.in. bęben schodkowy."
+    },
+    {
+        "no": 3,
+        "page": "B",
+        "title": "Era kalkulatorów: Thomas de Colmar",
+        "text": "Prawdziwą erę kalkulatorów rozpoczął francuski wynalazca i producent Charles Xavier Thomas de Colmar (1785-1870). W 1820 roku opatentował on pierwszą wersję swojego kalkulatora, który nazwał Arithmometre – stąd pochodzi później używana nazwa arytmometr. Zastosował w nim udoskonalone bębny schodkowe Leibnitza"
+    },
+    {
+        "no": 3,
+        "page": "B",
+        "title": "Arytmometry Thomasa i ich zastosowanie",
+        "text": "Prawdziwie masowa produkcja arytmometrów Thomasa rozpoczęła się dopiero w drugiej połowie XIX wieku. Thomas wyprodukował około 1500 arytmometrów, a po jego śmierci zajmował się tym L. Payen i szacuje się, że arytmometrów w „stylu Thomasa” znalazło się na rynku ponad 5000 (niektórzy autorzy szacują, że było ich 8000, wliczając w to wersje zmodyfikowane przez L. Payena, z czego tylko mniej niż 50% zostało sprzedanych we Francji, a reszta trafiła do innych krajów. Arytmometry te znalazły zastosowanie w handlu, pracy biurowej, a także w nauce. Jednym z głównych ich odbiorców była firma ubezpieczeniowa Prudential."
+    },
+    {
+        "no": 3,
+        "page": "B",
+        "title": "Nowa konstrukcja kalkulatorów: Baldwin i Odhner",
+        "text": "Bębny schodkowe zajmowały w kalkulatorach dość dużo miejsca, zwiększały także ciężar tych maszyn. Pod koniec XIX wieku pojawiła się całkiem nowa konstrukcja kalkulatorów, w których wykorzystano koło zębate, a dokładniej koło z ruchomymi zębami (ang. pinwheel). Wynalazcami takich kalkulatorów byli Frank S. Baldwin w USA i Szwed Willgotd T. Odhner w Rosji. Baldwin opatentował swój wynalazek w 1872 roku, a pierwszy model kalkulatora według tego patentu pojawił się na rynku w 1875 roku. Z kolei Odhner zbudował pierwszy model swojego kalkulatora w 1874 roku, a produkcję kalkulatorów rozpoczął w 1886 roku. Kalkulatory Baldwina nie miały zbyt dużej popularności, natomiast kalkulatory Odhnera cieszyły się dużą popularnością aż do lat 70. XX wieku. Jeszcze w XIX wieku Odhner sprzedał prawa do swojej konstrukcji w Niemczech i tak w 1892 roku w Braunschweigu rozpoczęła się produkcja kalkulatorów Odhnera pod nazwą Brunsviga (niektóre z nich miały dodatkowo w nazwie Trinks, od nazwiska głównego inżyniera S. Trinksa, który wprowadzał udoskonalenia w tych modelach) Dla odróżnienia od innych marek, kalkulatory produkowane przez Odhnera i jego następców noszą nazwę Original Odhner. Od 1886 roku produkowano je w fabryce w St. Petersburgu, a w 1917 roku podczas Rewolucji Październikowej przeniesiono produkcję do Goeteborga."
+    },
+    {
+        "no": 3,
+        "page": "B",
+        "title": "Facit i Felix: Kontynuacja produkcji",
+        "text": "W latach 20. XX wieku rozpoczęto produkcję kalkulatorów Odhnera pod nazwą Facit i przerwano ją dopiero w 1977 roku. Ciekawa jest dalsza historia tych kalkulatorów w Rosji. Zainteresował się nimi Feliks Dzierżyński, szef Czeka w czasach bezpośrednio po rewolucji. Z jego inicjatywy rozpoczęto ich produkcję w fabryce jego imienia, które nosiły nazwę Feliks Dzierżyński Arytmometr, później uproszczoną do Felix."
+    },
+    {
+        "no": 4,
+        "page": "A",
+        "title": "„Manufaktura logarytmów” de Prony'ego",
+        "text": "Konstruktor kalkulatora mechanicznego Johann H. Müller, w dodatku do opisu swojej maszyny zaproponował nowy typ maszyny, która automatycznie obliczałaby ciągi liczb jako sumy różnic otrzymywanych na kilku poziomach, ze stałą różnicą na najniższym poziomie. Uzależnił realizację swojego projektu od wsparcia finansowego, którego jednak nigdy nie otrzymał i jego projekt nie doczekał się nawet próby realizacji. Francuski baron Marie-Riche de Prony (1755-1839) pod koniec XVIII wieku nie czekał na maszynę, która wyręczyłaby go w pracy, tylko wzorując się na ideach szkockiego ekonomisty Adama Smitha zastosował podział pracy i utworzył specjalną „manufakturę logarytmów” dla sporządzenia tablic logarytmicznych i trygonometrycznych metodą różnic skończonych. W tym celu wynajął 6 wybitnych matematyków (wśród nich był Legendre i Carnot) do opracowywania formuł obliczeń, 8 przeszkolonych matematyków do przygotowywania poszczególnych etapów obliczeń i 60 rachmistrzów. Ci ostatni mieli jedynie dodawać i odejmować. Dzięki temu praca, która zajęłaby całe jedno życie, została ukończona w ciągu kilku lat (w 1801 roku)."
+    },
+    {
+        "no": 4,
+        "page": "A",
+        "title": "Maszyna różnicowa Charlesa Babbage'a",
+        "text":"Charles Babbage około 1820 roku spotkał barona de Prony, ale wydaje się, że podobnie jak baron, nie znał prac Müllera. W swoich działaniach posunął się jednak znacznie dalej niż jego poprzednicy i postanowił zbudować maszynę liczącą, która mogłaby wyręczyć człowieka i automatycznie wykonywać powtarzające się działania, związane z obliczaniem tablic matematycznych (o tym marzył już jako student w 1812 roku). Projekt swojej pierwszej maszyny, maszyny różnicowej (ang. difference engine) przeznaczonej do obliczania i drukowania tablic matematycznych, oparł na metodzie różnic skończonych, której zaletą jest wyeliminowanie z obliczeń mnożenia i dzielenia liczb w przypadku obliczania wartości wielomianów. Miała to więc być maszyna specjalnego przeznaczenia, której mechanizm miał być realizacją matematycznej zasady. Metoda różnicowa znacznie wcześniej została wykorzystana zarówno w projekcie maszyny, jak i przy automatyzacji konkretnych obliczeń. W 1822 roku ukończył ją i przystąpił do projektowania i realizacji dużej maszyny, której obliczenia byłyby wykonywane na różnicach do szóstego poziomu i liczbach o dwudziestu cyfrach. W przeciwieństwie do Müllera, Babbage był wspierany finansowo z rządowej kasy. Trapiony jednak wieloma kłopotami rodzinnymi i finansowymi oraz nie mogąc do końca porozumieć się ze swoim głównym wykonawcą-konstruktorem Josephem Clementem, po ponad 10 latach zaprzestał dalszych prac nad maszyną różnicową w 1834 roku. Zmontowaną, działającą część pierwszej maszyny różnicowej można oglądać w Muzeum Nauk w Londynie. W latach 1847-1849 Babbage stworzył projekt maszyny różnicowej nr 2, który wiele zawdzięczał doświadczeniom zdobytym przy prowadzonych wtedy pracach nad maszyną analityczną. Na podstawie tego projektu, w 1991 roku, z okazji 200 rocznicy urodzin Babbage’a, w Muzeum Nauk w Londynie zbudowano maszynę różnicową nr 2 według oryginalnego projektu."
+    },
+    {
+        "no": 4,
+        "page": "A",
+        "title": "Maszyna analityczna Charlesa Babbage'a",
+        "text":"W odróżnieniu od maszyn Pascala, Leibniza i innych, po ręcznym ustawieniu początkowego stanu, dalsze działania maszyny różnicowej Babbage’a nie wymagają już żadnej ingerencji użytkownika poza kręceniem korbą. Babbage nie poprzestał na próbie skonstruowania maszyny różnicowej, która z założenia była przeznaczona tylko do specjalnych obliczeń. W 1834 roku, jeszcze w trakcie prac nad maszyną różnicową, przedstawił pomysł zbudowania maszyny analitycznej (ang. analitycal engine). Było to przedsięwzięcie czysto abstrakcyjne – przewidywane przeszkody techniczne i trudności finansowe nie pozwoliły nawet na rozpoczęcie prac konstrukcyjnych (po śmierci Babbage’a, projekty maszyny analitycznej odziedziczył jego syn Henry, który na ich podstawie skonstruował tzw. młyn maszyny, odpowiadający jednostce liczącej w dzisiejszych komputerach; projekty maszyny analitycznej i prototyp młyna są przechowywane w Muzeum Nauk w Londynie)."
+    },
+    {
+        "no": 4,
+        "page": "A",
+        "title": "Pionierski podział pamięci w maszynie analitycznej Babbage'a",
+        "text":"W swoim projekcie Babbage zawarł jednak wiele pomysłów zrealizowanych dopiero we współczesnych komputerach – projekt maszyny analitycznej zawiera bowiem podstawowe elementy logiki współczesnych komputerów. Między innymi rozdzielił pamięć (zwaną magazynem – ang. store) od jednostki liczącej (młyna – ang. mill), czyli miejsce przechowywania danych od jednostki wykonującej na nich działania."
+    },
+    {
+        "no": 4,
+        "page": "A",
+        "title": "Maszyna analityczna Babbage'a",
+        "text":"Obie te części maszyny analitycznej miały być sterowane za pomocą dodatkowego urządzenia kontrolnego, które otrzymywało polecenia na kartach perforowanych, połączonych w pętlę, udoskonalonych i rozpowszechnionych przez Josepha Marie Jacquarda do programowania maszyn tkackich. Jej konstruktor przewidywał, że będzie dodawać dwie liczby kilkudziesięciocyfrowe w ciągu 3 sekund, a mnożyć – w ciągu 2-4 minut. Maszynę analityczną Babbege'a można uznać za pierwszy pomysł kalkulatora sterowanego programem zewnętrznym (na kartach)."
+    },
+    {
+        "no": 4,
+        "page": "A",
+        "title": "Rola Ady Lovelace w programowaniu",
+        "text":"Opis działania maszyny analitycznej trafił w ręce Ady Augusty Lovelace, córki Byrona, znanej z błyskotliwego umysłu. Urzeczona doskonałością projektu uważała, że „maszyna analityczna tkać będzie wzory algebraiczne, tak jak krosna Jacquarda tkają liście i kwiaty”, chociaż była również realistką twierdząc, że „maszyna analityczna nie ma ambicji wynalezienia czegokolwiek”. Nie czekając na skonstruowanie maszyny (czego jak wiemy i tak by się nie doczekała), Ada zajęła się sporządzaniem opisów jej używania do rozwiązywania konkretnych zadań obliczeniowych. Opisy te nazwalibyśmy dzisiaj programami, dlatego uważa się ją za pierwszą programistkę komputerów. Dla uczczenia zasług Ady na tym polu nazwano jej imieniem jeden z najbardziej uniwersalnych języków programowania."
+    },
+    {
+        "no": 4,
+        "page": "B",
+        "title": "Kalkulatory klawiszowe: rewolucja we wprowadzaniu danych",
+        "text": "Pod koniec XIX wieku pojawiły się kalkulatory, w których ustawienia danych dokonywało się za pomocą klawiszy. Pierwszym, czterodziałaniowym kalkulatorem klawiszowym był Comtometer z 1885, opatentowany w 1887 roku, którego konstruktorem był Dorr Eugene Felt (1862 – 1930). W 1889 roku, Felt uzyskał patent na Comptograph, który w porównaniu z Comptometrem został wzbogacony o mechanizm drukujący. W obu kalkulatorach Felt zastosował tzw. pełną klawiaturę, wynalezioną przez Thomasa Hilla w 1857 roku, która składa się z 9 rzędów klawiszy, po jednym dla każdej cyfry na każdej pozycji (nie było klawisza, odpowiadającego cyfrze 0, zero było reprezentowane przez brak wyboru klawisza). Pełny układ klawiszy na kalkulatorze był bardzo popularny aż do połowy XX wieku."
+    },
+    {
+        "no": 4,
+        "page": "B",
+        "title": "William Seward Burroughs i przełom w sumatorach",
+        "text": "Jeden z najważniejszych w historii sumatorów skonstruował William Seward Burroughs (1857-1898) w 1884 roku. Był to sumator z pełną klawiaturą, wyposażony w mechanizm drukowania. Pierwszy patent na swój sumator otrzymał w 1888 roku, a w pełni funkcjonalny model opatentował w 1892 roku. Na początku XX wieku powstały również sumatory tylko z dziesięcioma klawiszami. Jeden z nich zaprojektował w 1901 roku William W. Hopkins."
+    },
+    {
+        "no": 4,
+        "page": "B",
+        "title": "Ewolucja kalkulatorów biurowych: napęd elektryczny",
+        "text": "Na początku XX wieku zaczęły pojawiać się kalkulatory biurowe, napędzane motorem elektrycznym. Konstruktorem pierwszej takiej maszyny, opartej na arytmometrze Thomasa, był w 1902 roku Czech Alexander Rechnitzer. W następnych latach, niemal każda firma produkująca mechaniczne kalkulatory zaczęła włączać do swoich produktów modele z motorem elektrycznym. Były wśród nich kalkulatory: Eclair (kalkulator Odhnera produkowany we Francji, 1912), Mercedes-Euklid (1913), Monroe (1922), Burroughs (wszystkie modele, 1925). Przed 1940 rokiem niemal wszystkie kalkulatory biurowe były napędzane motorem elektrycznym. Jako sumatory, popularne były już w połowie XIX wieku urządzenia, o których można powiedzieć, że pierwowzorem były dla nich... abakusy i liczydła. Guziki i pręty zostały w nich zastąpione przez suwaki i nacięcia lub otwory. Do posługiwania się takimi sumatorami w niektórych modelach był potrzebny wskaźnik. Niektóre z modeli przypominały bardziej rozbudowaną linijkę (np. Addiator). Te proste sumatory były bardzo poręczne, na ogół miały charakter urządzeń kieszonkowych. Ze względu na swoją prostą konstrukcję były one również znacznie tańsze niż urządzenia do użytku biurowego."
+    },
+    {
+        "no": 4,
+        "page": "B",
+        "title": "Kalkulator kieszonkowy z bębnami schodkowymi: niezwykła konstrukcja w czasach wojny",
+        "text": "W czasie II Wojny Światowej, powstała jeszcze jedna konstrukcja kalkulatora, w której wykorzystano bębny schodkowe Leibniza. Chociaż wydawało się, że to rozwiązanie powinno znacznie powiększyć wielkość i wagę kalkulatora, powstał kalkulator niemal kieszonkowy! Skonstruował go w 1943 roku Curt Herzstark (1902-1988) będąc więźniem obozu koncentracyjnego w Buchenwaldzie."
+    },
+    {
+        "no": 5,
+        "page": "A",
+        "title": "Od przekaźników do telefonów: Ewolucja komunikacji elektronicznej",
+        "text": "Za początki komunikacji elektronicznej uważa się wynalezienie elektromagnesu i przekaźnika elektrycznego. Brytyjczyk William Sturgeon (1783-1850) zademonstrował w 1825 roku siłę elektromagnesu, podnosząc za jego pomocą znacznie większy ciężar, a w 1830 roku Joseph Henry potwierdził znaczenie tego odkrycia dla komunikacji na odległość, tworząc przekaźnik elektryczny – wysłał on na odległość ponad jednej mili sygnał elektryczny, który uaktywnił elektromagnes, a ten z kolei spowodował uderzenie w dzwonek. Tak narodził się telegraf (gr. pisać na odległość), pierwsze w pełni elektroniczne medium do komunikacji na odległość, w którym dane są przesyłane za pomocą przerywanych impulsów elektrycznych. Pierwsze komercyjne systemy telegraficzne zostały opracowane w 1837 roku, niezależnie w Anglii i w USA. W Anglii zrobili to znany fizyk Charles Wheatstone (1802-1875) i wynalazca William F. Cooke (1806-1879), a w USA – wynalazca i artysta Samuel Finley Breese Morse (1791-1872). W telegrafie Anglików użyto pięciu przewodów do wybierania odpowiednich liter, podczas gdy Morse posłużył się tylko jednym przewodem do przesyłania „kropek” i „kresek”, za pomocą których były kodowane litery i cyfry zgodnie z kodem Morse’a. W praktyce przyjął się ten drugi system, jako prostszy w budowie, łatwiejszy w użyciu i bardziej niezawodny. Praktyczna demonstracja udoskonalonego telegrafu Morse’a na znaczną odległość odbyła się 24 maja 1844 roku. Linią telegraficzną, zbudowaną za pieniądze Kongresu między odległymi o 60 km Baltimore i Washingtonem, przesłano wiadomość What hath God wrought? (... co Bóg uczynił – Biblia, Księga Liczb, Rozdział XXIII, 23). W zależności od wersji, przesyłane wiadomości były odbierane przez operatorów telegrafu na taśmie papierowej lub za pomocą słuchu."
+    },
+    {
+        "no": 5,
+        "page": "A",
+        "title": "Telegraf i telefon: Kamienie milowe w historii komunikacji na odległość",
+        "text": "Pierwszymi większymi komercyjnymi odbiorcami systemów telegraficznych były linie kolejowe (przesyłano m.in. informacje o ruchu pociągów). Wheatstone i Cook założyli Electric Telegraph Company i w 1850 roku w Anglii było już ponad 6 000 km linii telegraficznych. Ze względu na obszar, ten interes był jeszcze większy w USA – w 1854 roku było tam ponad 25 000 km linii telegraficznych (ponad 70% sieci światowej). W 1861 roku firma Western Union położyła transkontynentalną linię telegraficzną do Kalifornii między oboma wybrzeżami USA, biegła ona głównie wzdłuż linii kolejowych. Wynalazek telegrafu zbiegł się w czasie z ekspansją na Zachód – świat biznesu ze Wschodniego Wybrzeża USA parł na Zachód. Był to historyczny zbieg okoliczności – właściwa rzecz pojawiła się we właściwym czasie. W komunikacji kolejowej telegraf był stosowany jeszcze w latach 60. XX wieku. Pierwszy podmorski kabel pod kanałem La Manche położono w 1852 roku, a pod Oceanem Atlantyckim – w 1858 roku, ale dopiero w 1866 roku zaczęto oferować regularny serwis telegraficzny przez Atlantyk. Pocztowe usługi telegraficzne oferowano już w 1881 roku (Postal Telegraph System)."
+    },
+    {
+        "no": 5,
+        "page": "A",
+        "title": "Bell i jego wynalazki: Od telegrafu harmonicznego do telefonu i fotofonu",
+        "text": "Alexander Graham Bell (1847-1922) amerykański wynalazca i fizyk szkockiego pochodzenia, w 1876 opatentował wynalazek elektrycznego telefonu, który nazwał „udoskonaleniem telegrafu”, gdyż chciał usprawnić telegraf tak, aby było możliwe przesyłanie jedną linią telegraficzną wielu wiadomości w tej samej chwili. Interesując się muzyką, dążył również do przesyłania dźwięków i głosu – tak zrodził się pomysł telegrafu harmonicznego. Bell wynalazł również fotofon (1880), instrument służący do przesyłania dźwięku za pomocą promieni świetlnych, który można uznać za pierwszy telefon bezprzewodowy. Przez wiele lat ten ostatni wynalazek nie był doceniony, a faktycznie może być uznany za prekursora lasera i światłowodu. W 1877 A. G. Bell założył firmę Bell Telephone Company, kupioną w 1900 roku przez American Telephone and Telegraph Company (AT&T), która z latami wyrosła na najpotężniejszą firmę telekomunikacyjną w USA."
+    },
+    {
+        "no": 5,
+        "page": "B",
+        "title": "Ewolucja telefonu",
+        "text": "Telefon natychmiast zyskał sobie olbrzymią popularność w kraju swoich narodzin. Już w 1894 roku jeden telefon przypadał tam na 250 osób. Z czasem zaczął odgrywać coraz większą rolę w życiu i w pracy społeczeństwa amerykańskiego. Ludzie rozproszeni na wielkim obszarze mogli łatwo utrzymywać kontakty między sobą, zarówno w sprawach rodzinnych, jak i w zawodowych. Telefon ułatwiał również oferowanie usług związanych z bezpieczeństwem, służył ludziom niepełnosprawnym."
+    }
+    ,
+    {
+        "no": 5,
+        "page": "B",
+        "title": "Telefon jako narzędzie społeczne i technologiczne",
+        "text": "Sieć połączeń telefonicznych została również wykorzystana jako sieć elektroniczna dla takich usług, jak: przekazywanie wiadomości tekstowych za pomocą dalekopisów (system telex, w którym nadawcy i odbiorcy nie muszą kodować i dekodować wiadomości), przesyłanie obrazów za pomocą urządzeń typu fax, a pod koniec XX wieku stała się bazą dla komputerowych systemów sieciowych, takich jak Internet. Z drugiej strony, sieć telefoniczna i świadczone usługi telefoniczne w dużym stopniu bazują na technologii komputerowej. Związek tej technologii z telefonią jest obecnie nierozerwalny."
+    },
+    {
+        "no": 6,
+        "page": "A",
+        "title": "George Boole: Algebry logiczne",
+        "text": "George Boole (1815-1864) doprowadził do końca to, co próbował wynaleźć G. W. Leibniz – rachunek logiczny, zwany od jego nazwiska algebrą Boole’a, która umożliwia zapisywanie rozumowania logicznego w postaci rachunku algebraicznego, czyli rachunku na symbolach, które reprezentują zdania i formuły logiczne. Algebra Boole’a ma obecnie szerokie zastosowania w informatyce, np. przy projektowaniu komputerów (układów logicznych) i sieci telekomunikacyjnych oraz w wyszukiwaniu informacji. Rachunek logiczny rozwijał także Augustus de Morgan, który sformalizował operacje logiczne znane obecnie jako transformacje de Morgana. Minęło około 80 lat, aż ten formalizm Boole’a i de Morgana został zauważony i stał się podstawą dalszych badań."
+    },
+    {
+        "no": 6,
+        "page": "A",
+        "title": "Claude Shannon: Komputery i komunikacja",
+        "text": "Przełomowe znaczenie dla rozwoju komputerów i budowy sieci telegraficzno-telefonicznych miały prace Claude Elwood Shannona (1916-2001). Położył on podstawy teoretyczne pod praktyczny rozwój dwóch dziedzin techniki, będących motorem rozwoju technologicznego i społecznego w XX wieku: konstrukcji komputerów cyfrowych i teorii komunikacji. Jego osiągnięcia zwiastowały późniejsze zbliżenie się obu tych dziedzin w postaci komunikacji cyfrowej. Po zakończeniu studiów w 1936 roku rozpoczął pracę jako asystent w Massachusetts Institute of Technology, gdzie m.in. uczestniczył przy pracy analizatora różniczkowego (ang. Differential Analyzer), zbudowanego w 1930 roku przez Vannevara Busha. Maszyna ta była wtedy szczytowym osiągnięciem wśród komputerów analogowych – chociaż poruszana motorem elektrycznym, podstawowe operacje były w niej wykonywane mechanicznie, sterowana zaś była układem ponad stu przekaźników. Shannon zainteresował się teorią i projektowaniem takich układów i powiązał je z algebrą Boole’a. W pracy A Symbolic Analysis of Relay and Switching Circuits (1938), opartej na jego pracy magisterskiej, uznawanej powszechnie za najwybitniejszą pracę magisterską XX wieku, wykazał, że algebra Boole’a może być zastosowana w analizie i syntezie układów przełączających i binarnych. Wskazał na analogię między budową obwodów przełączających i algebrą Boole’a – przełącznik w stanie ON lub OFF odpowiada stanowi (zmiennej o wartości) YES lub NO – co umożliwia realizację funkcji logicznej za pomocą sieci przełączników i przekaźników. Dzięki temu algebra Boole’a i arytmetyka binarna mogą być wykorzystane do upraszczania układów przekaźnikowych w centralach telefonicznych, a z drugiej zaś strony układy przekaźników i przełączników mogą być zastosowane do rozwiązywania problemów algebry Boole’a i arytmetyki binarnej. W tamtych czasach oznaczało to przeskok z komputerów analogowych do komputerów cyfrowych i spotkało się z natychmiastowym zainteresowaniem przemysłu telefonicznego."
+    },
+    {
+        "no": 6,
+        "page": "A",
+        "title": "Rachunek logiczny: Teoria i praktyka",
+        "text": "Claude E. Shannon jest uznawany również za ojca współczesnej teorii informacji. Przed nim wiadomość była utożsamiana z falą, która służyła do jej przesłania liniami, na ogół innymi dla wiadomości telegraficznych, a innymi dla wiadomości głosowych. Shannon zaś przyjął, że każda wiadomość jest ciągiem cyfr binarnych – bitów, jak nazwał cyfrę binarną po raz pierwszy – oddzielił w ten sposób wiadomość od medium, którym jest ona przekazywana. Znaczenie semantyczne informacji nie odgrywa żadnej roli w jego teorii. Ponadto, proces komunikacji z natury ma zasadniczo charakter stochastyczny. W swej pracy A Mathematical Theory of Communication (opublikowanej po raz pierwszy w 1948 roku), od której bierze początek teoria informacji, przyjął fundamentalne założenie, że źródło informacji (np. źródło słów złożonych z pojedynczych symboli) działa jako źródło stacjonarnych procesów stochastycznych. Na tym założeniu oparł definicję miary ilości informacji, metodę pomiaru efektywności kanału komunikacyjnego oraz analizę błędów występujących w przesyłanych wiadomościach. Wprowadził do teorii informacji pojęcie entropii jako miary niepewności, zawartej w przesyłanej wiadomości."
+    },
+    {
+        "no": 6,
+        "page": "A",
+        "title": "Teoria informacji: Shannon i beyond",
+        "text": "Shannon interesował się również sztuczną inteligencją. Jest autorem jednego z pierwszych programów do gry w szachy (z 1950 roku), wykorzystanego w komputerze MANIAC w 1956 roku, skonstruował elektroniczną mysz szukającą wyjścia z labiryntu i uprościł uniwersalną maszynę Turinga. Wniósł również wkład do kryptografii. Był wielokrotnie nagradzany najwyższymi honorami akademickimi i przemysłowymi. Po ukazaniu się pracy Shannona w 1938 roku wzrosło zainteresowanie zbudowaniem elektronicznej maszyny logicznej. Faktycznie każdy późniejszy komputer cyfrowy był realizacją algebry Boole’a. W rzeczywistości jednak zaprzestano rozwijania specjalnych maszyn logicznych, a skupiono uwagę na komputerach ogólnego przeznaczenia, które dzięki m.in. specjalnym językom programowania okazały się wystarczająco mocne, by rozwiązywać problemy pochodzące z logiki. Jednym z takich języków jest Occam, tak nazwany dla uhonorowania Williama of Ockham (1285-1349), który 500 lat wcześniej odkrył transformacje znane obecnie jako transformacje de Morgana."
+    },
+    {
+        "no": 6,
+        "page": "B",
+        "title": "Diagramy logiczne: Reprezentacja pojęć",
+        "text": "Wśród aparatów logicznych można wyróżnić diagramy logiczne i maszyny logiczne. Diagramy logiczne służą do reprezentowania pojęć i obiektów logicznych, oraz relacji między nimi. Drzewa, oddające hierarchię zależności, stosował już Arystoteles w IV wieku p.n.e. Po wiekach, w 1761 roku szwajcarski matematyk Leonard Euler (1834-1923), który osiągnął znaczące sukcesy niemal w każdym dziale matematyki, zaproponował geometryczny system, służący do generowania rozwiązań w logice klasycznej. Nie okazał się on jednak specjalnym sukcesem."
+    },
+    {
+        "no": 6,
+        "page": "B",
+        "title": "Maszyny logiczne: Pierwsze próby",
+        "text": "W 1881 roku wykładowca logiki Allan Marquand zaproponował diagramy złożone z kwadratów i prostokątów. Zainteresował się nimi logik angielski Charles Lutwidge Dodgson (1832-1898), znany szerszym kręgom jako Lewis Carroll, autor Alicji w krainie czarów, który lubował się w zagadkach logicznych. Diagramy prostokątne miały swój renesans w połowie XX wieku, gdy Maurice Karnaugh zaczął posługiwać się nimi przy projektowaniu logiki układów cyfrowych. Do dzisiaj natomiast cieszą się popularnością diagramy utworzone z okręgów i elips, które wprowadził angielski logik John Venn (1834-1923) w 1880 roku pod wpływem prac George’a Boole’a."
+    },
+    {
+        "no": 6,
+        "page": "B",
+        "title": "Logiczne diagramy: Kwadraty i okręgi",
+        "text": "Pierwsze próby zbudowania maszyny logicznej podjął w XIII wieku teolog hiszpański Ramon Lull. Miała ona postać współśrodkowych dysków, umieszczonych na jednej osi. Za pomocą ich rotacji można było otrzymać wiele kombinacji słów i symboli, zapisanych na dyskach. W docelowej postaci miało być 14 dysków i 16 słów na każdym z nich. Takie urządzenie miało posłużyć m.in. do dowodzenia prawdziwości sformułowań. Nie odniosło jednak ono specjalnych sukcesów, choć wywarło wpływ m.in. na G. W. Leibnizu, który uważał, że dysputy i spory filozofów mogłyby być zastąpione przez wykonywanie przez nich odpowiednich rachunków."
+    },
+    {
+        "no": 6,
+        "page": "B",
+        "title": "Pierwsza maszyna logiczna: Demonstrator",
+        "text": "Faktycznie pierwszą maszynę logiczną zbudował Anglik Charles Stanhope (1753-1816), wynalazca również mechanicznych maszyn liczących. Nazwał ją Demonstrator. Miała być pomocna przy rozwiązywaniu sylogizmów (opis tej maszyny ukazał się dopiero 60 lat po śmierci konstruktora). Kolejną maszynę logiczną, logiczny abakus zwany logicznym pianinem, skonstruował w 1869 roku brytyjski ekonomista i logik William Stanley Jevons (1836-1882), zafascynowany odkryciami George’a Boole’a. Znana jest jeszcze maszyna logiczna, skonstruowana przez Allana Marquanda, w tym samym roku (1881), w którym wprowadził on prostokątne diagramy logiczne. Przypuszczalnie pierwszą elektryczną maszynę logiczną zbudował w 1936 roku amerykański psycholog Benjamin Burack."
+    },
+    {
+        "no": 6,
+        "page": "B",
+        "title": "System binarny: Leibniz i arytmetyka",
+        "text": "System binarny, czyli pozycyjny system reprezentacji i zapisu liczb o podstawie (bazie) 2, będący podstawą funkcjonowania współczesnych komputerów, pojawił się dopiero w XVII wieku. Za jego wynalazcę uważa się G. W. Leibniza, który już za młodu (w roku 1679) interesował się tym systemem i jego wykorzystaniem w maszynie liczącej. W pracy z 1703 objaśnił ten system i zademonstrował jego wykorzystanie do wykonywania podstawowych działań arytmetycznych."
+    },
+    {
+        "no": 6,
+        "page": "B",
+        "title": "Początki systemu binarnego: Hariot i Bacon",
+        "text": "Ślady systemu binarnego znaleźć można w zapisach przed Leibnizem. Angielski astronom i geograf Thomas Hariot (1560-1621) ok. roku 1600 przedstawił kolejne liczby naturalne jako sumy potęg liczby 2. Angielski filozof Francis Bacon (1561-1626) ujawnił pod koniec swojego życia sposób szyfrowania liter za pomocą dwóch znaków, które odpowiadało binarnej reprezentacji numeru miejsca liter w alfabecie. Około 1670 biskup Lobkowitz, mieszkający w Rzymie, opisał systemy liczbowe o różnych bazach, w tym także o podstawie 2. Wcześniej B. Pascal zajmował się systemem liczbowym o dowolnej podstawie większej lub równej 2. W wiekach XVIII i XIX wielu matematyków, w tym ci najznakomitsi jak L. Euler, interesowało się systemem binarnym."
+    },
+    {
+        "no": 6,
+        "page": "B",
+        "title": "Logika symboliczna i system binarny",
+        "text": "W drugiej połowie XIX wieku logicy, tacy jak George Boole i Augustus de Morgan, twórcy logiki symbolicznej, kładą solidne podstawy dla systemu binarnego, wprowadzając rachunek logiczny. Zwieńczeniem tego rozwoju jest praca magisterska C. Shannona (1937), w której połączył ze sobą technologię elektromechaniczną, algebrę Boole’a i system binarny. Niemal w tym samym czasie powstają pierwsze projekty urządzeń lub konkretne konstrukcje urządzeń elektryczno-mechanicznych (i elektroniczno-mechanicznych), służących do automatycznych obliczeń w systemie binarnym. Ich autorami byli: Francuz R. Valtat (opatentował binarną maszynę obliczeniową – 1932), Anglik E. W. Phillips (zbudował Binary Demonstrator – 1936), Niemiec K. Zuse (opracował pierwsze projekty binarnego kalkulatora przekaźnikowego – 1936) oraz Amerykanin G. Stibitz (zbudował sumator binarny – 1937). Pozycję systemu binarnego w projektach i konstrukcjach maszyn liczących ugruntowały prace teoretyczne i praktyczne dwóch największych pionierów ery współczesnych komputerów, A. M. Turinga i J. von Neumanna."
+    },
+    {
+        "no": 7,
+        "page": "A",
+        "title": "Karty perforowane: od tkactwa do programowania",
+        "text": "J.-M. Jacquard na przełomie XVIII i XIX wieku udoskonalił kartę perforowaną (dziurkowaną), służącą do sterowania automatycznymi maszynami do przetwarzania danych, reprezentowanych na karcie za pomocą otworów (dziurek) lub ich braku. Po zapisaniu (zakodowaniu) na kartach deseni materiałów i połączeniu ich w pętlę służyły do automatycznego sterowania krosnami, tkającymi powtarzający się motyw. W podobny sposób karty mogą służyć do sterowania maszynami grającymi – takie automaty muzyczne można jeszcze spotkać na ulicach wielu miast Europy. Ch. Babbage w projekcie swojej maszyny analitycznej z 1834 roku przewidział pierwsze informatyczne użycie kart perforowanych, na których miały być zapisane polecenia dla tej maszyny, czyli dzisiejszy program."
+    },
+    {
+        "no": 7,
+        "page": "A",
+        "title": "Herman Hollerith i rewolucja kart perforowanych",
+        "text": "Pod koniec XIX wieku Herman Hollerith rozwinął rzeczywiście praktyczne wykorzystanie kart perforowanych do zapisywania danych, pochodzących ze spisu powszechnego i automatycznego ich przetwarzania za pomocą maszyn tabulacyjnych. W jego przypadku, pomysł kodowania danych za pomocą dziurek na karcie, na początku okrągłych, wziął się z obserwacji konduktora kasującego bilety. Hollerith wynalazł urządzenie (pantograf) do dziurkowania kart zawierające klawiaturę i urządzenia do kolekcjonowania wybranych danych, zapisanych na kartach. Pod koniec lat 20. XX wieku, utrwalił się standard karty perforowanej, zaproponowany przez IBM. Wprowadzono prostokątne dziurki, które umożliwiły umieszczenie na karcie danych w 80 kolumnach i 12 wierszach."
+    },
+    {
+        "no": 7,
+        "page": "A",
+        "title": "Ewolucja taśmy papierowej jako nośnika danych",
+        "text": "Osobną nieco krótszą historię ma taśma papierowa jako nośnik danych i informacji. W telegrafie Morse’a nadchodzące wiadomości były zapisywane na poruszanej mechanizmem zegarowym taśmie papierowej za pomocą sterowanego elektromechanicznie ołówka, który pozostawiał na papierze krótsze lub dłuższe kreski, odpowiadające kropkom i kreskom w kodzie Morse’a. W 1857 roku, Ch. Wheatstone wprowadził stosowanie w telegrafie dwukanałowej taśmy perforowanej do zapisywania w kodzie Morse’a wysyłanych wiadomości – jeden kanał był przeznaczony na kropki, a drugi na kreski – w ten sposób wiadomości mogły być przygotowywane przed wysłaniem. Pod koniec XIX wieku intensywnie rozwijano pomysł telegrafu drukującego, w którym przesyłane wiadomości miały być drukowane w czytelnej postaci tekstowej. Znaki (litery, cyfry i inne) zostały umieszczone na głowicy, a do sterowania jej ruchami wykorzystano pięciobitowy kod Baudota, znany jako International Telegraph Alphabet No. 1 (ITA1), który wprowadził około 1875 roku francuski wynalazca Jean Maurice Emile Baudot (1845-1903). Urządzenia działające w oparciu o kod Baudota (po wielu modyfikacjach i w wielu wersjach) zaczęły zastępować urządzenia oparte na kodzie Morese’a i zostały wyparte dopiero w połowie lat 60. XX wieku przez kod ASCII. Na początku XX wieku z powodzeniem rozpoczęła się ekspansja systemu telex, opartego na urządzeniach typu teleprinter, w których wiadomości były nadawane za pomocą klawiatury przypominającej maszynę do pisania, a odbierano je, drukując na papierze podawanym z rolki. Do transmisji wykorzystywano zarówno linie telegraficzne, jak i telefoniczne."
+    },
+    {
+        "no": 7,
+        "page": "A",
+        "title": "Od telegrafu do elektronicznych nośników: historia przetwarzania danych",
+        "text": "Pod koniec XX wieku urządzenia te zostały wyparte przez podłączoną do komputera klawiaturę i ekran monitora, a wiadomości przyjęły postać listów elektronicznych i faxów. Karty i taśmy papierowe jako nośniki danych wzięły swój początek w różnych obszarach przetwarzania danych. Początkowo były odczytywane mechanicznie (igły trafiające na otwór zamykały obwód elektryczny), a póêniej światło zastąpiło igły. W drugiej połowie XX wieku, przez około 20 lat, karty i taśmy były podstawowymi nośnikami danych komputerowych, służącymi głównie do zapisywania danych i wprowadzania danych do komputerów (wyniki były drukowane na papierze). Karty w porównaniu z taśmą miały niewątpliwe zalety – można było stosować je w różnych zestawach, łatwo wymieniać błędne karty, a ponadto w pierwszym wierszu u góry karty można było zapisać tekst odpowiadający zakodowanej na karcie informacji. Karty i taśmy perforowane jako nośniki danych i informacji (np. programów) dla komputerów zostały wyparte dopiero w połowie lat 70. XX wieku przez coraz tańsze nośniki elektroniczne, różnego rodzaju dyskietki. Z czasem, konkurencję dla dyskietek zaczęły stanowić płyty CD, a następnie płyty DVD, a na początku XXI wieku bardzo popularnym i niezmiernie wygodnym nośnikiem informacji w postaci elektronicznej stał się pen-drive."
+    },
+    {
+        "no": 7,
+        "page": "B",
+        "title": "Od Gutenberga do maszyny do pisania: droga komunikacji",
+        "text": "Może się wydawać, że od prasy drukarskiej z ruchomymi czcionkami do maszyny do pisania tylko jeden niewielki krok. Upłynęło jednak ponad 400 lat zanim wynalazek Gutenberga z 1440 roku został pod koniec XIX wieku przekuty w maszynę do pisania – osobiste urządzenie do drukowania. To „opóźnienie” było spowodowane m.in. wysokimi kosztami produkcji jakichkolwiek maszyn, jaki niskimi kosztami siły roboczej. Dopiero automatyzacja przemysłu w XIX wieku i wiele innych wynalazków stworzyło odpowiednie warunki do upowszechnienia się maszyn do pisania, o których myślano znacznie wcześniej."
+    },
+    {
+        "no": 7,
+        "page": "B",
+        "title": "Klawiatura maszyny do pisania: prekursor komputerowej interakcji",
+        "text": "Maszyna do pisania należy do historii ludzkich dążeń do komunikowania się, a w historii komputerów może być uznana za prekursora klawiatury, która umożliwia użytkownikowi interakcję z komputerem. Z drugiej strony, wynalazek ten miał oszczędzać czas. Eliphalet Remington, jeden z pierwszych producentów maszyn do pisania, reklamował je tym, że oszczędzając czas wydłużają życie. Pierwszy patent maszyny do pisania uzyskał Anglik Henry Mill w 1714 roku. W 1808 roku, Włoch Pellegrino Turri skonstruował maszynę do pisania dla swojej ociemniałej przyjaciółki – wiadomo o tym na podstawie listów, napisanych przez nią za pomocą tej maszyny. Pierwsza znana maszyna do pisania została zbudowana z drewna przez Amerykanina Williama Burta w 1829 roku; nazwał on ją typographer."
+    },
+    {
+        "no": 7,
+        "page": "B",
+        "title": "QWERTY i Remington: ewolucja maszyny do pisania",
+        "text": "Nie była to niestety konstrukcja konkurencyjna dla odręcznego pisania. Pierwszą praktyczną maszynę do pisania opatentowali w 1867 roku trzej amerykańscy wynalazcy C. L. Sholes, C. Glidden i S. W. Soule, a jej produkcji podjął się w 1873 roku producent broni i maszyn do szycia, firma E. Remington & Sons. W swojej maszynie Sholes wprowadził w 1874 roku układ klawiszy, znany obecnie jako QWERTY, pochodzący od pięciu kolejnych liter w drugim od góry rzędzie (w trzecim w przypadku klawiatury komputera). W tym układzie litery na klawiaturze maszyny są umieszczone w czterech rzędach i oddalone są od siebie pary liter, które często występują obok siebie w słowach języka angielskiego. Ma to zapobiec blokowaniu się czcionek tych liter podczas pisania. Klawisz Shift został wprowadzony do maszyn Remington dopiero w 1878 roku, umożliwiając pisanie nie tylko wielkimi literami. W 1936 roku August Dvorak opatentował znacznie efektywniejszy układ klawiszy na klawiaturze, znany jako klawiatura Dvoraka, ale nie przyjął się on komercyjnie. Mark Twain jest uważany za pierwszego pisarza, który całą książkę napisał na maszynie. Była to powieść życie na Mississippi, którą napisał w 1882 roku na maszynie Remington #2. Amerykanin Franz X. Wagner wynalazł w 1895 roku mechanizm w maszynie do pisania, dzięki któremu osoba pisząca na bieżąco widziała drukowany tekst."
+    },
+    {
+        "no": 7,
+        "page": "B",
+        "title": "Elektryczne maszyny do pisania: przełom w komfortowym pisaniu",
+        "text": "Maszyny z tym mechanizmem były produkowane przez firmę Underwood i zawierały w sobie większość udogodnień spotykanych w później produkowanych modelach. Pierwszy patent na elektryczną maszynę do pisania uzyskali w 1871 roku dwaj Amerykanie George Arrington i sławny wynalazca żarówki Thomas A. Edison, ale dopiero w połowie XX wieku maszyny elektryczne zdobyły większą popularność. Duża w tym zasługa firmy IBM, producenta maszyn IBM Selectric, zawierających wymienne głowice z czcionkami (głowice oczywiście nie powodowały zakleszczania się czcionek), a w późniejszych latach – wyposażonych również w taśmę korekcyjną do poprawiania błędów (literówek)."
+    },
+    {
+        "no": 8,
+        "page": "A",
+        "title": "Dwaj giganci nauki informatycznej XX wieku",
+        "text": "Dwóch największych naukowców, matematyków i informatyków XX wieku, Alan Turing i John von Neumann, w pierwszej połowie XX wieku położyło teoretyczne podwaliny zarówno pod teorię obliczeń, jak i pod budowę praktycznych urządzeń obliczeniowych – komputerów."
+    },
+    {
+        "no": 8,
+        "page": "A",
+        "title": "Turing: Uniwersalny komputer przed narodzinami technologii",
+        "text": "Alan Turing w 1936 roku, a więc przed zbudowaniem jakiegokolwiek komputera w dzisiejszym sensie, przedstawił model uniwersalnego komputera, znany jako maszyna Turinga, który posłużył również do sformalizowania pojęcia algorytm. Ta maszyna składa się z nieskończonej taśmy do zapisywania na niej danych i wyników, oraz głowicy, która wykonuje działania zgodnie z podanym zestawem „poleceń”, czyli programem, uwzględniając przy tym zawartość taśmy. Maszynę Turinga można uznać za sformalizowanie pojęcia algorytm. Obecnie budowane komputery są fizycznymi realizacjami maszyny Turinga w tym sensie, że, jak głosi teza Turinga, każde urządzenie obliczeniowe ma co najwyżej takie możliwości jak maszyna Turinga. Turing wskazał również na istnienie problemów, których nie można rozwiązać za pomocą maszyny Turinga, czyli także komputera."
+    },
+    {
+        "no": 8,
+        "page": "A",
+        "title": "Turing: Od łamania szyfrów do komputerów",
+        "text": "Turing wniósł również istotny wkład w budowę rzeczywistych komputerów. Podczas II wojny światowej, zajmując się łamaniem szyfrów niemieckich maszyn Enigma i Lorenz w Bletchley Park koło Londynu, udoskonalił „bombę” produkcji polskich kryptografów, kierowanych przez Mariana Rejewskiego – urządzenie do weryfikowania i odrzucania ustawień maszyny Enigma i wywarł duży wpływ na projekt oraz budowę pierwszej elektronicznej maszyny cyfrowej Colossus, działającej od grudnia 1943 roku. Po wojnie pracował również nad projektem komputera ACE (ang. Automatic Computing Engine) w National Physical Laboratory, który jednak nie został zbudowany i zajmował się oprogramowaniem dla jednego z pierwszych rzeczywistych komputerów Manchester Mark I. Przez cały czas, jako logik, interesował się, na ile komputer może naśladować ludzkie myślenie i zaproponował test, zwany testem Turinga, służący do badania, czy maszyny mogą myśleć."
+    },
+    {
+        "no": 8,
+        "page": "A",
+        "title": "Von Neumann: Architektura komputerowa",
+        "text": "John von Neumann wniósł istotny wkład do wielu dziedzin nauki: matematyki, fizyki, ekonomii, nauk przyrodniczych. W czasie II wojny światowej podczas prac na potrzeby wojska, zetknął się z wieloma projektami, których celem było skonstruowanie maszyny liczącej. Wcześniej, bo w latach 1936-1938, miał okazję spotykać A. M. Turinga (krótko po opublikowaniu przez niego pracy zawierającej opis maszyny Turinga), przebywającego w Princeton. Spotkania te zapewne wywarły wpływ na sposób myślenia von Neumanna o komputerach. Swoją propozycję budowy i funkcjonowania komputera von Neumann przedstawił w raporcie znanym jako The First Draft z 1945 roku dotyczącym maszyny EDVAC. W tym raporcie nakreślił logiczną strukturę budowy komputera, określaną mianem architektura von Neumanna, która jest realizowana w komputerach od połowy XX wieku aż po dzisiejsze komputery PC."
+    },
+    {
+        "no": 8,
+        "page": "A",
+        "title": "Von Neumann: Komputer z programem w pamięci",
+        "text": "W tej architekturze, system komputerowy składa się z czterech głównych części: jednostki arytmetycznej (wykonującej cztery podstawowe operacje), jednostki sterującej (nadzorującej wykonywanie operacji w odpowiedniej kolejności i współdziałanie poszczególnych jednostek podczas wykonywania programu), pamięci (w której przechowywane są dane, wyniki i wyniki pośrednie) oraz urządzeń wejścia/wyjścia. Najważniejszą własnością tej architektury jest rola przypisana pamięci – służy ona do przechowywania danych i programów, skąd wynika m.in., że program może się modyfikować podczas wykonywania. Stąd pochodzi też inna nazwa tej architektury – komputer z programem w pamięci lub komputer z programem wewnętrznym (ang. stored-program computer). Pierwszych śladów maszyny z programem w pamięci można się dopatrzyć w projektach Babbage’a, a zwłaszcza Ady, pisał o tym również K. Zuse w 1936 roku, a także twórcy maszyny ENIAC interesowali się zbudowaniem takiej maszyn. Jednak dopiero von Neumann pierwszy opisał taką maszynę w swoim sławnym Pierwszym szkicu."
+    },
+    {
+        "no": 8,
+        "page": "B",
+        "title": "Kryptografia",
+        "text": "Człowiek od początku swoich dziejów porozumiewał się z innym człowiekiem. Z czasem wynalazł różne sposoby komunikowania się na odległość. Później, rodzące się społeczności, państwa i ich wodzowie potrzebowali sprawnych systemów łączności, by skutecznie władać swoimi, często rozległymi posiadłościami. Sprzeczne interesy różnych władców i dowódców powodowały, że zaczęli oni strzec wysyłanych przez siebie wiadomości przed przechwyceniem ich przez inne osoby. Tak narodziła się potrzeba szyfrowania, czyli utajniania treści przesyłanych wiadomości. Wielokrotnie w historii ludzkości szyfrowanie miało istotny wpływ na bieg wydarzeń. Matematycy Stanisław Leśniewski, Wacław Sierpiński i Stefan Mazurkiewicz złamali sowieckie szyfry w 1920 roku we Lwowie. Dzięki temu znane były zamiary Armii Czerwonej. Najbardziej spektakularnym jednak przykładem jest chyba historia rozpracowania niemieckiej maszyny szyfrującej Enigma, dzięki czemu – jak utrzymują historycy – II wojna światowa zakończyła się o 2-3 lata wcześniej. Dużą w tym rolę odegrali Polacy."
+    },
+    {
+        "no": 8,
+        "page": "B",
+        "title": "Polscy kryptolodzy",
+        "text": "Polscy kryptolodzy – tym mianem określa się zespół kryptologów, kierowany przez Mariana Rejewskiego (pozostałymi członkami zespołu byli: Jerzy Różycki i Henryk Zygalski), który przed wybuchem II wojny światowej wsławił się opracowaniem metod i urządzeń służących do łamania szyfrów maszyny Enigma. Byli oni absolwentami Wydziału Matematyczno-Przyrodniczego Uniwersytu Poznańskiego. W 1929 roku uczestniczyli oni w kursie kryptologii, a od następnego roku pracowali w Biurze Szyfrów Sztabu Głównego Wojska Polskiego, początkowo w oddziale poznańskim, a od 1932 roku w Warszawie. W lipcu 1939 roku swoje materiały i urządzenia przekazali kryptologom z Francji i Wielkiej Brytanii. W czasie wojny prace nad deszyfracją Enigmy były kontynuowane przez Anglików w Bletchley Park koło Londynu. Polscy kryptolodzy zaś pracowali nad łamaniem szyfrów we Francji, a później również w Wielkiej Brytanii."
+    },
+    {
+        "no": 8,
+        "page": "B",
+        "title": "Enigma",
+        "text": "W latach 20. XX wieku, niewiele lat po przegranej I wojnie światowej, Niemcy na nowo rozpoczęły budowę swojej potęgi militarnej. Jednym z fundamentalnych rozwiązań miała być bezpieczna komunikacja. Wysiłki te nasiliły się po dojściu Hitlera do władzy w 1933 roku. Pod koniec lat 20. XX wieku w wojsku niemieckim wprowadzono maszynę szyfrująco-deszyfrującą Enigma, początkowo stosowaną komercyjnie do celów cywilnych. Na długo przed wybuchem wojny, w państwach czujących zagrożenie niemieckim militaryzmem rozpoczęto działania mające na celu opracowanie sposobów łamania szyfrów maszyny Enigma. Największy sukces na tym polu odniósł zespół polskich kryptologów, którzy w grudniu 1932 roku złamali szyfr Enigmy. Miesiąc przed wybuchem wojny zaprezentowali oni i przekazali swoje osiągnięcia kryptologom z Francji i Wielkiej Brytanii."
+    },
+    {
+        "no": 8,
+        "page": "B",
+        "title": "Ogólny opis budowy i działania maszyny Enigma",
+        "text": "Enigma była elektro-mechaniczną maszyną, w której układ okablowanych wirników i połączeń służył do zmiany podawanej (wprowadzanej) litery. Naciśnięcie klawisza z literą powodowało wysłanie sygnału elektrycznego, który przechodząc przez łącznicę wtyczkową, trzy lub cztery wirniki i z powrotem, wielokrotnie zamieniał naciśnietą literę na inną i na końcu zapalała się lampka z zaszyfrowaną literą. Każde naciśnięcie klawisza powodowało obrót wirników, więc te same litery były szyfrowane na różne sposoby. Początkowe ustawienie maszyny polegało na wyborze: trzech (lub czterech w marynarce wojennej) wirników spośród pięciu (lub ośmiu w marynarce), 6-11 połączeń na łącznicy wtykowej i początkowych pozycji wirników. Podstawowe elementy maszyny Enigma to: klawiatura złożona z 26 liter i służąca do wprowadzania tekstu jawnego, łącznica wtyczkowa w przedniej obudowie, służąca do zamiany liter, ruchome wirniki (rotory) szyfrujące i walec odwracający, lampki wskazujące zaszyfrowane litery. Impuls elektryczny, spowodowany naciśnięciem litery tekstu jawnego, przemierza: (a) tabelę połączeń modyfikowanych za pomocą łącznicy wtyczkowej i (b) ruchome wirniki (co najmniej trzy), (c) jest odbijany przez walec odwracający, i ponownie przechodzi przez (d) ruchome wirniki i (e) tabelę połączeń modyfikowanych, a na końcu (f) powoduje zapalenie się lampki z zaszyfrowaną literą (czyli z szyfrem wybranej na klawiaturze litery). Każde naciśnięcie klawisza powodowało obrót pierwszego wirnika o 1/26 część obwodu, co powodowało, że ta sama litera w tekście jawnym była szyfrowana innymi literami i nie pozwalało stosować przy deszyfracji metod częstościowych. Walec odwracający umożliwiał deszyfrację tekstu przy tych samych ustawieniach początkowych maszyny – był on tym elementem maszyn Enigma, który nieco ułatwiał deszyfrację. W początkowym okresie stosowania maszyn Enigma, szyfrant wykonywał kolejno następujące czynności: na podstawie obowiązujących na dany dzień ustaleń (opisane to było w księdze kodowej), ustawiał wirniki ruchome w odpowiedniej kolejności i zmieniał litery na łącznicy przez odpowiednie umieszczenie wtyczek w gniazdach. Następnie dla każdej depeszy wybierał 3 litery (tyle, ile wirników ruchomych) jako klucz i szyfrował je dwukrotnie. Otrzymane w ten sposób sześć liter umieszczał na początku zaszyfrowanego tekstu. Następnie przestawiał wirniki na wybrany dla danej depeszy klucz i szyfrował całą depeszę. Liczby: zamian liter (stosowano 6-11 połączeń wtyczkowych), ustawień wirników (6 dla 3 wirników), wyboru pozycji początkowej dla wirnika (26 3 = 17576) i ustawień walca odwracającego pozwalały generować ponad 22 miliony różnych podmian (podstawień) literowych, wśród których nie było żadnych dwóch jednakowych par liter tekstu jawnego i zaszyfrowanego. W czasie wojny rozwinięciem metod deszyfracji maszyny Enigma zajęli się na olbrzymią skalę Brytyjczycy – działania te prowadzono pod kryptonimem ULTRA – budując w tym celu specjalny ośrodek w Bletchley Park pod Londynem. Powstały tam m.in. zmodyfikowane bomby kryptologiczne – w okresie największego nasilenia prac pracowało ponad 200 takich maszyn – oraz komputer Colossus (1943), który faktycznie był pierwszym komputerem elektronicznym kiedykolwiek zbudowanym. W Bletchley Park przez cały okres wojny pracował m.in. Alan M.Turing, który miał olbrzymi wpływ zarówno na budowane tam maszyny matematyczne, jak i na kierunek prac kryptograficznych. Niestety, zgodnie z brytyjskim prawem o ochronie tajemnicy, o osiągnięciach Brytyjczyków w kryptografii w czasie II wojny światowej świat dowiedział się dopiero w połowie lat 70. XX wieku."
+    },
+    {
+        "no": 8,
+        "page": "B",
+        "title": "Bomba brytyjczyków",
+        "text": "Brytyjczycy usprawnili i znacznie rozbudowali „polską bombę”. Przy jej budowie uczestniczył A. M. Turing. Zaczęto je budować od 1940 roku i w pewnym okresie w Bletchley Park pracowało ponad 200 bomb. Gdy w 1942 roku Niemcy dodali czwarty wirnik do maszyn Enigma i zaczęli wyposażać w nie okręty podwodne U--boty, brytyjskie Bomby nie były w stanie deszyfrować ich wiadomości. Po przystąpieniu do wojny w 1941 roku i by zapobiec swoim stratom na morzu, Amerykanie zaprojektowali Bombę, która była w stanie łamać szyfry czterowirnikowych maszyn Enigma. Pierwsze Bomby Amerykanów pojawiły się pod konie 1943 roku i w sumie zainstalowano ich ponad 120. Pod koniec wojny Amerykanie przejęli całkowicie od Brytyjczyków deszyfrowanie wiadomości kierowanych do i od U-botów."
+    },
+    {
+        "no": 8,
+        "page": "B",
+        "title": "Colossus",
+        "text": "Elektroniczna lampowa (zawierała 1500 lamp) maszyna cyfrowa specjalnego przeznaczenia, sterowana programem przechowywanym w maszynie (częściowo programowalna), zbudowana w czasie II Wojny Światowej w Wielkiej Brytanii na potrzeby kryptologów skupionych w ośrodku kryptograficznym w Bletchley Park pod Londynem i pracujących dla Wydziału Komunikacji Ministerstwa Spraw Zagranicznych. W Bletchley Park zajmowano się deszyfracją depesz kodowanych za pomocą maszyn Enigma i maszyn Lorenz – Colossus był zaprojektowany do deszyfracji wiadomości kodowanych szyfrem maszyn Lorenz. Ze względu na tajemnicę państwową, pierwsze informacje dotyczące maszyn Colossus zostały oficjalnie ujawnione przez Rząd Brytyjski dopiero w 1975 roku, 30 lat po zakończeniu wojny. Z tych informacji wiadomo, że projekt maszyny opracował zespół po kierunkiem M. H. A. Newmana, a T. H. Flowers kierował zespołem, który zajmował się jej budową. Jak podano, A. M. Turing w tym czasie pracował w tym samym Wydziale, i jego wcześniejsza praca, w której przedstawił abstrakcyjny model komputera, miała istotny wpływ na rozwiązania projektowe w tej maszynie. Maszyna Colossus, w zawrotnym jak na tamte czasy tempie, czytała 5000 znaków na sekundę z dziurkowanej taśmy i wykonywała 100 operacji logicznych jednocześnie. Pierwszą maszynę Colossus testowano w grudniu 1943 roku i rozpoczęła ona pracę w lutym 1944 roku. Wyprodukowano 11 egzemplarzy tej maszyny w dwóch modelach (Mark I i Mark II). Większość z tych maszyn została rozmontowana po wojnie. W muzeum w Bletchley Park można oglądać replikę maszyny Colossus Mark II, zbudowaną w 2003 roku. Uważa się, że prace brytyjskich kryptografów w Bletchley Park – do końca wojny odczytano ponad 63 miliony znaków w zaszyfrowanych wiadomościach – przyśpieszyły zakończenie wojny o blisko dwa lata."
+    },
+    {
+        "no": 9,
+        "page": "A",
+        "title": "Pierwsze kroki",
+        "text": "Z1 (1938), Z2 (1939), Z3 (1941), Z4 (1945) to komputery zbudowane przez Konrada Zuse. Najbardziej zaawansowaną i niezawodną konstrukcją była maszyna Z3, uważana obecnie przez wielu za pierwszy sterowany programem komputer ogólnego przeznaczenia. Był to programowalny kalkulator binarny, w którym zarówno pamięć, jak i logika były oparte na algebrze Boole’a. Zbudowany był z 2400 przekaźników telefonicznych. W jego pamięci można było przechowywać binarnie 64 liczby w postaci zmiennopozycyjnej, złożone z 22 bitów (16 bitów na mantysę i 8 bitów na cechę, wykładnik). Program i dane były czytane z taśmy perforowanej."
+    },
+    {
+        "no": 9,
+        "page": "A",
+        "title": "Konrad Zuse i jego komputery",
+        "text": "Dane były wprowadzane także z klawiatury numerycznej, a wyniki można było odczytać z lamp elektrycznych. Z3 był komputerem programowalnym przez program zewnętrzny (czyli przez program nie przechowywany w komputerze), który mógł realizować obliczenia w pętli, ale nie było możliwości prowadzenia obliczeń warunkowych (taka możliwość pojawiła się w komputerze Z4, przekazanym w 1950 roku Politechnice ETH w Zurychu). Warto wspomnieć o innych maszynach K. Zuse, które miały podobną budowę jak Z3. Z1 była maszyną w pełni mechaniczną, zamiast przekaźników użyte zostały specjalne blaszki z wycięciami, które umożliwiały ustawienie dwóch stanów, 0 oraz 1 – takie rozwiązanie stosował jedynie K. Zuse w swoich komputerach, głównie ze względów oszczędnościowych. Prąd elektryczny był wykorzystany jedynie w silniku, który generował impulsy, niezbędne do synchronizacji maszyny. W maszynie Z2, by zwiększyć jej niezawodność, Zuse użył 800 przekaźników do budowy jednostki arytmetycznej i sterującej, pamięć nadal była jednak mechaniczna. W maszynie Z4 Zuse powrócił do pamięci mechanicznej z powodu trudności zdobycia bardziej zaawansowanych technologicznie elementów. Maszyny Z1 – Z3 uległy zniszczeniu podczas działań wojennych, zaś maszynę Z4 udało się uchronić przed zniszczeniem i w 1950 roku, po niezbędnych naprawach i modyfikacjach, Zuse odsprzedał ją politechnice w Zurychu – był to pierwszy przypadek sprzedaży komputera. Repliki maszyn Z1 (wykonana w latach 1987-1989) i Z3 (wykonana w latach 1960-1961) wykonane pod kierunkiem K. Zuse znajdują się w muzeach w Niemczech."
+    },
+    {
+        "no": 9,
+        "page": "A",
+        "title": "Pierwszy komputer",
+        "text": "Pierwszy komputer (Z1) Zuse zaczął konstruować w 1936 roku w pokoju swoich rodziców w Berlinie, a ukończył go w 1938 roku. Komputer Z1 był w pełni mechaniczny, w Z2 przekaźniki zostały użyte przy budowie jednostki sterującej i arytmetycznej, Z3 był komputerem w pełni przekaźnikowym, a w Z4 Zuse przywrócił pamięć mechaniczną. W 1949 roku K. Zuse założył firmę Zuse KG, pierwszą firmę komputerową w Niemczech, w której do 1967 roku wyprodukowano ponad 251 komputerów. Ze względu na kłopoty finansowe, firmę tę wykupił Siemens AG.ENIAC (ang. Electronic Numerical Integrator and Computer – elektroniczny integrator numeryczny i komputer), pierwszy w pełni elektroniczny komputer zbudowany w latach 1943-1946 na Uniwersytecie w Pensylwanii (w Moore School of Electrical Engineering tego Uniwersytetu), którego pierwotnym przeznaczeniem były obliczenia do tablic balistycznych (zasięg pocisków) dla armii USA, a w późniejszych latach również wspierano za pomocą tej maszyny prace nad budową bomby atomowej, a także cywilne obliczenia naukowe i inżynierskie. Maszyna ENIAC wykonywała obliczenia w systemie dziesiętnym. Nie była to jednak maszyna z programem przechowywanym w pamięci. Jej programowanie polegało początkowo na zmianie okablowania, a od 1948 roku nie wymagało już ingerencji w budowę. Jako wejście stosowano czytnik kart IBM, a jako wyjście – dziurkarkę kart, również IBM. Zbudowana była na lampach próżniowych (bardzo zawodnych) – było ich 18 tysięcy, ponadto wykorzystano dziesiątki tysięcy innych elementów (diod, przekaźników, oporników, kondensatorów). Konstruktorami maszyny ENIAC byli John William Mauchly (1907-1980) i John Presper Eckert (1919-1995), którzy w późniejszych latach zaprojektowali maszynę EDVAC i skonstruowali dla National Bureau of Standards (USA) maszynę UNIVAC I. Maszyna ENIAC wywarła wpływ na ówczesnych konstruktorów maszyn (np. na Johna von Neumanna) i na projekty innych komputerów budowanych w tamtych czasach (EDVAC, EDSAC, SEAC)."
+    },
+    {
+        "no": 9,
+        "page": "A",
+        "title": "Spory: kto był pierwszy?",
+        "text": "W 1973 roku, w procesie wytoczonym Sperry Rand przez Honeywell, Sąd Federalny w USA uznał, że twórcy maszyny ENIAC zapożyczyli wiele pomysłów i rozwiązań od Johna Atanasoffa, konstruktora maszyny ABC i unieważnił wiele ich patentów. Faktycznie J. W. Mauchly odwiedził J. Atanasoffa w 1941 roku. Miał więc okazję zapoznać się z pracami prowadzonymi nad jego maszyną."
+    },
+    {
+        "no": 9,
+        "page": "A",
+        "title": "EDSAC",
+        "text": "EDSAC (ang. Electronic Delay Storage Automatic Computer – elektroniczny komputer automatyczny z opóźnionym przechowywaniem danych), zbudowany w 1949 roku przez zespół kierowany przez Maurice Wilkes’a w Laboratorium Matematycznym Uniwersytetu w Cambridge w Wielkiej Brytanii. EDSAC oparty był na architekturze von Neumanna – jego działaniem sterował program wewnętrzny, czyli program przechowywany w pamięci. Pamięć w EDSAC, utworzoną z rur wypełnionych rtęcią (ang. mercury delay lines), tworzyło 512 słów złożonych z 35 bitów każde. W jednostce logicznej użyto około 3000 lamp próżniowych. W tym komputerze stosowano jeden z pierwszych asemblerów, a na początku lat 60. XX wieku, dla kolejnego modelu tej maszyny, zaprojektowano autokod, język wyższego rzędu (podobny do języka Algol). Program był wczytywany z taśmy papierowej, a wyniki drukowane za pomocą urządzenia teleksowego."
+    },
+    {
+        "no": 9,
+        "page": "A",
+        "title": "EDVAC",
+        "text": "EDVAC (ang. Electronic Discrete Variable Automatic Computer – automatyczny komputer elektroniczny posługujący się dyskretnymi zmiennymi), elektroniczny komputer zaprojektowany przez zespół, w skład którego weszli m.in. konstruktorzy komputera ENIAC, John W. Mauchly i J. Prosper Eckert, oraz John von Neumann, autor słynnego raportu The First Draft, w którym przedstawił architekturę komputera z programem w pamięci i projekt komputera EDVAC. Był to komputer binarny, zawierał ponad 1000 komórek pamięci, dodawanie trwało 846 mikrosekund, a mnożenie – 2900 mikrosekund. Jeden z pierwszych komputerów, w którym użyto taśmy magnetycznej jako nośnika danych i programów dla tej maszyny. Zawierał około 5000 lamp i 10000 krystalicznych diod, ważył prawie 8 ton i zajmował blisko 50 m2 . Budowany w latach 1946-1951, początkowo na Uniwersytecie w Pensylwanii a później w IAS (Princeton), był sponsorowany również (jak ENIAC) przez armię USA. Pracował aż do 1961 roku, przechodząc w tym czasie wiele modyfikacji."
+    },
+    {
+        "no": 9,
+        "page": "A",
+        "title": "SEAC",
+        "text": "SEAC (ang. Standards Electronic/Eastern Automatic Computer) Elektroniczny komputer zbudowany w 1950 roku przez National Bureau of Standards (USA), w oparciu o architekturę maszyny EDVAC, zawierał więc program w pamięci. Do jego budowy wykorzystano blisko 750 lamp próżniowych (głównie jako wzmacniaczy) i ponad 15000 diod germanowych (w jednostce logicznej). Pamięć, złożona z 512 słów, każde zawierające 45 bity, była zbudowana z 64 rur akustycznych. Czasy wykonywania operacji były podobne jak w maszynie EDVAC. Komputer SEAC pracował do 1964 roku."
+    },
+    {
+        "no": 9,
+        "page": "A",
+        "title": "ADEC",
+        "text": "Harvard Mark III znany również jako ADEC – ang. Aiken Dahlgren Electronic Calculator) to kolejny z serii komputerów, zbudowany w 1950 roku przez zespół kierowany przez Howarda H. Aikena na Uniwersytecie Harvarda. Jak poprzednie modele, była to maszyna oparta na architekturze Harvard, w której dane były oddzielone od programu. Szesnastocyfrowe liczby dziesiętne były reprezentowane przez 36-bitowe słowa. Maszyna zawierała 5000 lamp próżniowych, 1500 diod i dziewięć bębnów magnetycznych, każdy o pojemności 4350 słów. Jeden bęben zawierał instrukcje – był to więc komputer przechowujący program w pamięci – a dwa zawierały stałe i zmienne. Sześć pozostałych bębnów było przeznaczonych na dane. Słabym punktem tej maszyny był brak bezpośredniego dostępu do danych na bębnie i dość długi czas dostępu do bębnów. Kolejny komputer z tej serii, Harvard Mark IV, również w architekturze Harvard, został ukończony w 1952 roku. Była to maszyna już w pełni elektroniczna, zbudowana z elementów solid-state z programem przechowywanym w pamięci. Wykorzystywała również bębny magnetyczne."
+    },
+    {
+        "no": 9,
+        "page": "B",
+        "title": "Superkomputery",
+        "text": "Superkomputery – tym mianem określa się komputery, które w danym okresie czasu są najszybsze w działaniu. Szybkość superkomputerów mierzy się w FLOPS (ang. FLoating point Operations Per Second), liczbą operacji zmiennopozycyjnych na sekundę. Początkowo jednostką była Mflops (MegaFLOPS – 10 6 flops), później Gflops (GigaFLOPS – 10 9 flops), obecnie Tflops (TeraFLOPS – 10 12 flops), czyli 1 000 000 000 000 operacji na sekundę, a już wkrótce będzie Pflops (PetaFLOPS – 10 15 flops). Za pierwsze superkomputery uważa się komputery zbudowane przez Control Data Corporation. Ich konstruktorem był Seymour Cray, powszechnie uznawany za ojca superkomputerów – były to maszyny CDC 6600 (3 Mflops), CDC 7600 (36 Mflops) i CDC Star-100 (100 Mflops). W 1972 roku Cray odszedł z CDC i założył firmę Cray Research, zajmującą się głównie budową superkomputerów. Do początków lat 90. komputery Cray zajmowały czołowe miejsca na liście superkomputerów. Przez ponad dwa lata najszybsza była japońska maszyna Earth Simulator, a obecnie (rok 2005) prym wiodą komputery budowane przez IBM. W czerwcu 2005 najszybszy był superkomputer Blue Gene/L (136-183 Tflops), zainstalowany w Lawrence Livermore National Laboratory w Livermore, będący wspólnym przedsięwzięciem IBM i National Nuclear Security Administration Departamentu Energetyki USA."
+    },
+    {
+        "no": 9,
+        "page": "B",
+        "title": "Rozwój i wyzwania z nim związane",
+        "text": "Pierwsze superkomputery (maszyny CDC) bazowały na szybkich procesorach. W latach 70. w superkomputerach stosowano procesory wektorowe, a w latach 80.- 90. zaczęto stosować w najszybszych maszynach równoległe systemy procesorów. Obecnie superkomputery są klasterami mikroprocesorów RISC (ang. Reduced Instruction Set Computing), takich jak PA-RISC (HP) czy PowerPC (Apple, IBM, Motorola). Na szybkość działania takich maszyn istotny wpływ ma użyta w tych maszynach hierarchiczna budowa pamięci, zapewniająca stały dopływ danych i instrukcji do procesorów. Wyzwaniem jest również chłodzenie takiej ilości procesorów oraz minimalizacja długości przewodów (ostatnio zaczęto stosować łączność bezprzewodową)."
+    },
+    {
+        "no": 9,
+        "page": "B",
+        "title": "Szybkie języki programowania",
+        "text": "Systemy operacyjne w superkomputerach bazują na systemie Unix, natomiast do ich programowania stosuje się specjalne języki, wykorzystujące równoległą architekturę jednostki obliczeniowej. Jednymi z najpopularniejszych są odmiany języka Fortran, których kompilatory generują znacznie szybsze kody, niż kompilatory języków C czy C++. Testowanie szybkości działania superkomputerów odbywa się na wybranych przykładach (ang. benchmarks) zagadnień obliczeń algebraicznych Linpack."
+    },
+    {
+        "no": 9,
+        "page": "B",
+        "title": "Superkomputery specjalnego przeznaczenia",
+        "text": "Budowane są również superkomputery o specjalnym przeznaczeniu, np. Deep Blue do gry w szachy (pokonał Gary Kasparowa) czy Deep Crack służący do łamania szyfrów DES. Moc obliczeniową, porównywalną z superkomputerami, mają rozproszone instalacje komputerów (np. PC). Ocenia się, że na przykład poszukiwanie kolejnych dużych liczb pierwszych Mersenne’a w projekcie GIPS ma moc rzędu 18 Tflops, a system maszyn wyszukujących Google ma moc obliczeniową 100-300 Tflops."
+    },
+    {
+        "no": 9,
+        "page": "B",
+        "title": "Zastosowania",
+        "text": "Superkomputery są stosowane w przypadkach bardzo intensywnych obliczeń matematycznych, pojawiających się np. przy prognozowaniu pogody i w badaniach klimatów, modelowaniu molekularnym, symulacji zjawisk fizycznych, kryptoanalizie (m. in. przy łamaniu szyfrów). Jednym z najważniejszych ich zastosowań jest symulacja wybuchów broni jądrowej, co umożliwiło zaprzestanie prowadzenia prób z tą bronią w przyrodzie."
+    },
+    {
+        "no": 10,
+        "page": "A",
+        "title": "Przekaźniki: Elektryczne przełączniki od telegrafu do komputerów",
+        "text": "Przekaźnik (ang. relay) jest elektrycznym przełącznikiem, który otwiera się i zamyka pod wpływem prądu w innym obwodzie. Najpierw został wykorzystany w telegrafie (1837), a następnie był stosowany w kalkulatorach i w pierwszych komputerach przy realizacji funkcji logicznych – dwa przekaźniki połączone szeregowo realizują operację LUB, a równolegle – AND."
+    },
+    {
+        "no": 10,
+        "page": "A",
+        "title": "Bramki logiczne: Od mechaniki do elektroniki w realizacji operacji logicznych",
+        "text": "Bramka logiczna (ang. logic gate) – układ przełączników stosowany w realizacji operacji logicznych w algebrze Boole’a. Wykonane były z elementów mechanicznych (jak u Babbage’a i Zuse), elektromagnetycznych przekaźników i diod."
+    },
+    {
+        "no": 10,
+        "page": "A",
+        "title": "Tranzystory i Układy Scalane: Rewolucja Elektroniki i Miniaturyzacja",
+        "text": "Tranzystor (ang. transistor) jest elektronicznym elementem półprzewodnikowym, który może pełnić funkcję przełącznika elektronicznego, a w połączeniu z kondensatorem – elementu pamięci półprzewodnikowej. Tranzystor wynaleźli w latach 1947-1948 John Bardeen (1908-1991), Walter H. Brattain (1902-1987) oraz William B. Shockley (1910-1989) z Bell Telephone Laboratories. Dwaj pierwsi z tej trójki pod koniec 1947 roku wynaleźli tranzystor ostrzowy (ang. point-contacy transistor), a w 1948 roku Shockley wynalazł tranzystor warstwowy (ang. junction transistor). J. Bardeen otrzymał w 1972 roku drugą Nagrodę Nobla za nadprzewodnictwo. Układ scalony (ang. integrated circuit, chip), zminiaturyzowany układ elektroniczny, zawierający od kilku do milionów elementów elektronicznych, takich jak tranzystory, diody, kondensatory. Najbardziej rozpowszechnionymi układami scalonymi są mikroprocesory i kości pamięci. Ze względu na stopień scalenia, w przeszłości wyróżniano układy: małej skali integracji (SSI – Small Scale of Integration), średniej (MSI – Medium), dużej (LSI – Large), wielkiej (VLSI – Very Large), a obecnie ultra wielkiej (UL – Ultra Large)."
+    },
+    {
+        "no": 10,
+        "page": "A",
+        "title": "Ewolucja Mikroprocesorów: Od Kalkulatorów do Potężnych Obliczeń",
+        "text": "Mikroprocesor jest pojedynczym układem scalonym, przeznaczonym do wykonywania określonego zbioru operacji, np. wszystkich operacji matematycznych i logicznych. Pierwsze mikroprocesory powstawały z myślą o kalkulatorach, bardziej jako elektroniczne elementy, niż jako programowalne części komputerów. Takie było również przeznaczenie mikroprocesora TMS 1000 wyprodukowanego przez Texas Instruments w 1971 roku. Był on mniejszy od paznokcia (12 mm2), mocą natomiast dorównywał komputerowi ENIAC z 1946 roku, który zajmował całą halę (72 m2). W 1974 roku pojawił się Intel 8080, mikroprocesor w pełni ogólnego przeznaczenia; zawierał 5000 tranzystorów i wykonywał 2 000 000 operacji na sekundę (częstotliwość 2 MHz). W 1978 roku Intel opracowuje w pełni 16-bitowy procesor Intel 8086 (29 000 tranzystorów, częstotliwość 4,77 MHz), mogący adresować 1 MB pamięci. Zmodyfikowana wersja tego mikroprocesora – Intel 8088 – wewnętrznie 16-bitowa, ale z szyną 8-bitową, została użyta w 1981 roku w komputerze IBM PC. W kolejnych latach pojawiały się: Intel 80286 (1982 – 120 000 tranzystorów, 6-12 MHz), Intel 80386 (1985 – 275 000 tranzystorów, 16-33 MHz); Intel 80486 (1989 – 1 180 000 tranzystorów, 25-20 MHz), Intel Pentium II (1997 – 2 500 000 tranzystorów, 233-450MHz); Intel Pentium III (1999 – 24 000 000 tranzystorów, 450-1330 MHz); Intel Pentium 4 (2000 – 42 000 000 tranzystorów, 1300-2000 MHz). Wyprodukowany w 2004 roku mikroprocesor dwuprocesorowy Intel Itanium z pamięcią podręczną 9 MB, zawiera pond 500 milionów tranzystorów."
+    },
+    {
+        "no": 10,
+        "page": "A",
+        "title": "Konkurencja na Rynku Mikroprocesorów",
+        "text": "Niemal równocześnie z firmą Intel, mikroprocesory o podobnych parametrach były produkowane również przez wiele innych firm, takich jak: Texas Instruments (głównie przeznaczonych dla kalkulatorów), Motorola (montowanych w komputerach Apple), MOS Technology (procesory z serii MC-6500 stosowane w pierwszych komputerach domowych), NEC, AMD (Advanced Micro devices). Intel od początku nadawał kierunek i tempo rywalizacji na polu konstrukcji coraz doskonalszych procesorów."
+    },
+    {
+        "no": 10,
+        "page": "A",
+        "title": "Prawo Moore’a",
+        "text": "Prawo Moore’a – w najpopularniejszej wersji – głosi, że liczba tranzystorów w układzie scalonym podwaja się co 18 miesięcy (sam Moore zarzekał się, że to przewidywanie dotyczyło 24 miesięcy). Sformułowane w pracy z 1965 roku na bazie obserwacji empirycznych, obecnie często występuje jako cel działania i wyzwanie dla przemysłu mikroprocesorowego."
+    },
+    {
+        "no": 10,
+        "page": "B",
+        "title": "Czym jest kalkulator?",
+        "text": "Kalkulator to urządzenie służące do wykonywania obliczeń liczbowych (numerycznych). Kalkulator różni się od komputera i maszyny obliczeniowej (ang. calculating machine) tym, że na ogół jest urządzeniem wykonującym tylko niektóre operacje lub działającym według pewnego typu algorytmu (jak maszyna różnicowa Babbage’a), nie jest więc maszyną ogólnego przeznaczenia i nie można go uznać za maszynę Turinga. Chociaż współczesne kalkulatory są budowane na procesorach ogólnego przeznaczenia, mają wiele cech komputerów (można je programować), to są projektowane, by ułatwić wykonywanie tylko pewnych operacji i obliczanie wybranych funkcji."
+    },
+    {
+        "no": 10,
+        "page": "B",
+        "title": "Gdzie się go używa?",
+        "text": "Spotkać można kalkulatory wykonujące tylko cztery działania i wyposażone w pojedynczą komórkę pamięci, stosowane w najprostszych codziennych obliczeniach. Bardziej zaawansowane umożliwiają obliczanie wartości funkcji inżynierskich, a najbardziej rozbudowane mogą być programowane, a wyniki są wyświetlane w postaci graficznej. Proste kalkulatory można znaleźć w urządzeniach takich jak zegarki lub telefony komórkowe. Dzisiaj komputery osobiste są wyposażone w programy symulujące, także swoim wyglądem, tradycyjne kalkulatory proste i inżynierskie. Kalkulatory inżynierskie, umożliwiające obliczanie wartości funkcji elementarnych, pojawiły się w połowie lat 70. XX wieku i na dobre wyparły z użycia suwaki logarytmiczne."
+    },
+    {
+        "no": 10,
+        "page": "B",
+        "title": "współczesne kalkulatory",
+        "text": "Współczesne kalkulatory są budowane z układów scalonych w technologii półprzewodnikowej. Zasilane są bateriami lub promieniami słonecznymi. Produkowane są przez bardzo wiele firm, ale ton rywalizacji nadają cztery firmy: Casio, HP (Hewlett-Packard), Sharp i TI (Texas Instruments)."
+    },
+    {
+        "no": 10,
+        "page": "B",
+        "title": "Dziś już nie taki drogi...",
+        "text": "Początkowo elektroniczne kalkulatory desk-top, a póśniej kieszonkowe (pocket) lub hand-held, były bardzo drogie. Na początku lat 60. XX wieku ich cena była porównywalna z ceną samochodu (około $1000). Spowodowane to było wysokimi cenami materiałów i elementów, z których były budowane, a także liczbą elementów, z których się składały. Dopiero układy scalone i póśniejsza miniaturyzacja elektroniki spowodowały drastyczny spadek ceny elementów składowych."
+    },
+    {
+        "no": 10,
+        "page": "B",
+        "title": "Komu zawdzięczamy mikroprocesory",
+        "text": "Elektroniczne kalkulatory spowodowały powstanie pierwszego mikroprocesora Intel 4004 – zaprojektowany on został dla kalkulatorów firmy japońskiej Busiom. Podobne było przeznaczenie mikroprocesora TMS 1000 wyprodukowanego przez Texas Instruments w 1971 roku. Na początku swojej historii rozwoju, mikroprocesory powstawały z myślą głównie o kalkulatorach elektronicznych."
+    },
+    {
+        "no": 10,
+        "page": "B",
+        "title": "Co używaliśmy przed elektronicznymi kalkulatorami?",
+        "text": "Pierwsze kalkulatory elektroniczne zaczęto budować na początku lat 60. XX wieku, i z czasem zaczęły one wypierać kalkulatory mechaniczno-elektryczne. Do końca tej dekady kalkulatory te były jeszcze pokaśnych rozmiarów i dość dużo kosztowały, chociaż stanowiły już wyposażenie osobistych stanowisk pracy (biurek) – były to modele desk-top."
+    },
+    {
+        "no": 11,
+        "page": "A",
+        "title": "Komputery osobiste",
+        "text": "Pierwsze „komputery osobiste” zaczęły pojawiać się pod koniec lat 50. XX wieku – „osobisty” oznaczało początkowo, możliwość obsługi przez jednego operatora – zaś ich nasilenie nastąpiło w latach 70. Były to jednak albo bardzo drogie maszyny, albo eksperymentalne egzemplarze, albo o niewielkich możliwościach. Obecnie przyjmuje się, że komputer osobisty (ang. personal computer, PC) jest komputerem ogólnego przeznaczenia, zbudowanym na bazie mikroprocesora, dostępnym na rynku dla szerokich mas użytkowników.Podobnie jak w przypadku komputerów, do powstania komputerów osobistych i ich późniejszej olbrzymiej popularności przyczyniło się wiele wynalazków, które dzisiaj można odnaleść w popularnych PC i w urządzeniach, które z nimi współpracują, zwiększając ich możliwości i zakres zastosowań."
+    },
+    {
+        "no": 11,
+        "page": "A",
+        "title": "Wynalazki które przyczyniły się do rozwoju komputerów osobistych",
+        "text": "1950 – Yoshiro Nakamats z Uniwersytetu Tokijskiego wynajduje napęd dysków elastycznych (ang. floppy disk) i sprzedaje licencję IBM,\n 1953 – pamięć ferrytowa typu ROM,\n 1954 – pierwsza drukarka,\n 1955 – skaner,\n 1964 – wynaleziono mysz,\n 1965 – opracowano język Basic,\n 1969 – standard portu szeregowego (RS-232) i pamięć typu DRAM"
+    },
+    {
+        "no": 11,
+        "page": "A",
+        "title": "Kto używał pierwsze osobiste komputery?",
+        "text": "Pierwsze komputery domowe pojawiające się na rynku w drugiej połowie lat 70. XX wieku praktycznie nie były wyposażone w żadne oprogramowanie. Ich oprogramowanie stanowiły programy pisane przez ich użytkowników. Pierwszym programem, który szybko zyskał na wielkiej popularności wpływając tym również na popularność mikrokomputerów, był arkusz kalkulacyjny VisiCalc, opracowany przez studentów ekonomii z Uniwersytetu Harvarda."
+    },
+    {
+        "no": 11,
+        "page": "B",
+        "title": "Pierwsze popularne mikrokomputery",
+        "text": "Inne niż przedstawione na planszy komputery osobiste, popularne również na polskim rynku: Commodore C-64 (1982), Sinclair ZX Spectrum (Times), Amiga, Amstrad, Atari i inne. Mikrokomputery były również produkowane w Polsce: Meritum (firma Elzab), Elwro 800 Junior (komputer szkolny, występujący również w postaci sieci Junet)."
+    },
+    {
+        "no": 12,
+        "page": "A",
+        "title": "Poprzedniczki Internetu",
+        "text": "Za poprzedniczki sieci komputerowych należy uznać wcześniejsze sieci telegraficzne i sieci telefoniczne. Największymi kompaniami, oferującymi połączenia tymi sieciami, były w USA Western Union i AT&T. Pomysły łączenia ze sobą komputerów by ich użytkownicy mogli komunikować się ze sobą pojawiały się już we wczesnym okresie ich budowania, w latach 50. XX wieku."
+    },
+    {
+        "no": 12,
+        "page": "A",
+        "title": "Początki komunikacji Internetowej",
+        "text": "Na początku komunikację między komputerami zapewniały Interface Message Processors (IMP), zbudowane przez firmę Bolt Beranek and Newman, Inc. (BBN). W 1970 roku N. Abramson z Uniwersytetu na Hawajach zbudował pierwszą radiową sieć pakietową ALOHAnet, która w 1972 roku została przyłączona do ARPANET."
+    },
+    {
+        "no": 12,
+        "page": "A",
+        "title": "Teoretyczne podwaliny systemu",
+        "text": "Pierwsze teoretyczne podstawy sieci komputerowych stworzyli na początku lat 60. XX wieku L. Kleinrock (MIT, 1961) – opublikował pierwszą pracę na temat sieci pakietowych; J. C. R. Licklider i W. Clark (MIT i BBN, 1962) – opisali „sieć galaktyczną” (ang. Galactic Network), której realizacją jest obecny Internet; P. Baran (RAND, 1964) – przedstawił koncepcję sieci rozproszonej, bez centralnego punktu zarządzania; L. G. Roberts (MIT, 1966) – przedstawił pierwszy projekt sieci ARPANET; D. W. Davies (NPL Anglia, 1967) – nadzorował uruchomienie pierwszej eksperymentalnej sieci pakietowej w NPL (ang. National Physical Laboratory) w Anglii, wprowadził określenie pakiet."
+    },
+    {
+        "no": 12,
+        "page": "A",
+        "title": "Przesyłanie pakietów informacji",
+        "text": "Działanie sieci ARPANET i obecnie Internetu opiera się na przesyłaniu pakietów informacji. Dane lub informacje są formowane w pakiety, które następnie niezależnie krążą w sieci, by wreszcie osiągnąć punkt przeznaczenia. Połączeniami komunikacyjnymi może być jednocześnie przekazywanych wiele pakietów. W 1973 roku określono specyfikację i zaimplementowano protokół przesyłania plików FTP (ang. File Transfer Protocol) w sieci ARPANET, a także protokół komunikacji głosowej w sieci NVP (ang. Network Voice Protocol). Obecnie najczęściej wykorzystywanymi usługami w sieci Internet są poczta elektroniczna i serwis (sieć) WWW. Serwis WWW jest realizowany w sieci WWW, funkcjonującej na bazie sieci Internet i składającej się z serwerów stron, zrealizowanych w postaci hipertekstu, przybierającego coraz częściej postać hipermediów."
+    },
+    {
+        "no": 12,
+        "page": "A",
+        "title": "Ważne daty",
+        "text": "1968 – The Rand Corp. przedstawia zdecentralizowaną sieć ARPA,\n 1969 – Departament Obrony USA tworzy ARPANET do badaƒ nad sieciami; 4 węzły sieci rozpoczynają działanie: UCLA, UC Santa Barbara, SRI, the University of Utah,\n1970 – powstanie protokołu TCP/IP"
+    },
+    {
+        "no": 12,
+        "page": "B",
+        "title": "Początki informatyki w Polsce",
+        "text": "Początki informatyki w Polsce przypadają na koniec lat 40. XX wieku, gdy kraj podnosił się ze zniszczeń wojennych, a jednocześnie popadał w izolację międzynarodową, zwłaszcza w stosunku do technologii rozwijanej w państwach zachodnich, poodowaną zaostrzaniem się tzw. zimnej wojny. Głównymi inicjatorami budowy polskich komputerów byli matematycy, m.in. Kazimierz Kuratowski. W pierwszych dwóch dekadach (1948-1968) budową komputerów zajmowano się głównie w Warszawie i we Wrocławiu, w instytucjach blisko związanych z Polską Akademią Nauk, wyższymi uczelniami oraz w zakładach Elwro we Wrocławiu."
+    },
+    {
+        "no": 12,
+        "page": "B",
+        "title": "Pierwsza maszyna cyfrowa",
+        "text": "W 1948 roku w Państwowym Instytucie Matematycznym w Warszawie zostaje utworzona Grupa Aparatów Matematycznych (GAM). Pierwszymi pracownikami GAM byli Krystyn Bochenek, Leon Łukaszewicz i Romuald Marczyński, późniejsi konstruktorzy pierwszych działających komputerów analogowych i cyfrowych. Pierwszy eksperymentalny komputer GAM-1 zbudował Zdzisław Pawlak w roku 1950. Pierwszymi praktycznymi konstrukcjami były maszyny analogowe: Analizator Równań Algebraicznych (ARAL), budowany przez K. Bochenka, Analizator Równań Róniczkowych (ARR) - budowany przez L. Łukaszewicza i Elektroniczna Maszyna Automatycznie Licząca (EMAL) 2. budowana przez R. Marczyńskiego. Pierwsza w 1955 roku została uruchomiona maszyna ARR. Zawierała około 400 lamp elektronowych i służyła do rozwiązywania układów równań różniczkowych. Parametry równań zmieniało się pokręcając gałkami, a efekt można było natychmiast obserwował na kilku ekranach. Prace nad pierwszą maszyną cyfrową EMAL trwały w latach 1953-1955, jednak z powodu niewystarczającej niezawodności elementów nie została ona nigdy w pełni uruchomiona. Główny konstruktor maszyny EMAL, R. Marczyński, zbudował w latach 1957-1958 maszynę EMAL 2. Miała ona pamięć bębnową o pojemności 1024 słów rozmieszczonych na 32 ścieżkach. Na ścieżce zerowej był umieszczony prosty program wprowadzający, odgrywała więc ona rolę dzisiejszej pamięci ROM. Maszyna pracowała w arytmetyce uzupełnienia do 2. Jej szybkość wynosiła średnio 150 operacji na sekundę. O niezawodności tej maszyny może świadczyć wykonanie na niej obliczeń, które trwały nieprzerwanie przez trzy miesiące."
+    },
+    {
+        "no": 12,
+        "page": "B",
+        "title": "Gwałtowny rozwój",
+        "text": "W latach 1956-1958 zespół kierowany przez L. Ł̧ukaszewicza zbudował i uruchomił w ZAM pierwszą polską maszynę cyfrową XYZ. Wyprodukowano również całą rodzinę maszyn ZAM. Największym osiągnięciem pod względem technicznym i programistycznym była ukończona w 1966 roku maszyna drugiej generacji (w technice półprzewodnikowej) ZAM 41, przeznaczona do przetwarzania danych. Poza placówkami PAN, projektowaniem komputerów zajmowano się również w Zakładzie Konstrukcji Telekomunikacyjnych i Radiofonii Politechniki Warszawskiej (ZKTiR), kierowanym przez A. Kilińskiego. Opracowano tam maszynę cyfrową UMC 1, pracującą w arytmetyce minus dwójkowej, którą opisał Z. Pawlak. W 1961 roku wyprodukowano pięć maszyn UMC 1. W tym samym roku, dokumentacja maszyny UMC 1 została przekazana do ZE Elwro we Wrocławiu, które w latach 1962-1964 wyprodukowały 25 egzemplarzy tej maszyny. Maszyny UMC 1 były wyposażone w pamięci bębnowe, które stanowiły osobny asortyment produkcji – wyprodukowano ich ponad 50 egzemplarzy dla zakładów, instytutów uczelnianych i na eksport do Jugosławii i na Węgry. W 1965 roku uruchomiono maszynę UMC 10, która była tranzystorową wersją maszyny UMC 1, i w dwóch następnych latach wyprodukowano jeszcze trzy egzemplarze tej maszyny. Wrocławskie Zakłady Elektroniczne Elwro (ZE Elwro), zostały utworzone dnia 6 lutego 1959 roku. Na początku, grupy przyszłych konstruktorów komputerów odbyły staż w ZAM PAN, kierowanym przez L.  ̧ukaszewicza, i w IBJ PAN, gdzie szkolenia prowadził R. Marczyński. Powstało Biuro Konstrukcyjne, którym początkowo kierował Jerzy Bromirski. Zbudowano kolejno Odrę 1001 (w roku 1960) i Odrę 1002 (w roku 1961), które ze względu na dużą zawodność nie były produkowane seryjnie."
+    },
+    {
+        "no": 12,
+        "page": "B",
+        "title": "Dalsze prace",
+        "text": "W latach 1962-1964 wyprodukowano w ZE Elwro 25 egzemplarzy lampowej maszyny UMC 1, zaprojektowanej w ZKTiR Politechniki Warszawskiej (tym przedsięwzięciem kierował E. Bilski). Montaż tych maszyn odbywał się już na wydziale produkcyjnym, a nie w warunkach laboratoryjnych. W następnych latach produkowano komputery drugiej generacji, na tranzystorach. W latach 1963-1966 wyprodukowano 42 egzemplarze maszyny Odra 1003. W latach 1966-1967 roku produkowano maszynę Odra 1013, która oprócz pamięci bębnowej miała również pamięć ferrytową o pojemności 256 słów, dzięki czemu ta maszyna była dwa razy szybsza niż jej poprzedniczka. Wyprodukowano 84 takie maszyny, z których 53 egzemplarze wyeksportowano."
+    },
+    {
+        "no": 12,
+        "page": "B",
+        "title": "Odra",
+        "text": "W 1967 roku opracowano i wdrożono do produkcji maszynę Odra 1204. Na początku 1967, na podstawie zawartego porozumienia, firma ICT (późniejsza ICL) przekazała ZE Elwro pełną dokumentację logiczną maszyny ICL 1904 oraz taśmy z pełnym oprogramowaniem podstawowym i użytkowym. Rozpoczęła się produkcja maszyn z serii 13xx, które były wyposażone w bardzo bogate oprogramowanie i różnorodne urządzenia zewnętrzne. Po tranzystorowej maszynie Odra 1304, rozpoczęto produkcję znacznie wydajniejszych maszyn Odra 1305 i Odra 1325, maszyn trzeciej generacji na układach scalonych. Model maszyny Odra 1305 został utworzony w IMM PAN w Warszawie we współpracy z ZE Elwro."
+    },
+    {
+        "no": 12,
+        "page": "B",
+        "title": "Koniec produkcji komputerów w Polsce",
+        "text": "Na początku 1968 roku państwa wchodzące w skład RWPG rozpoczęły współpracę nad systemem komputerów Jednolitego Systemu RIAD, wzorowanym na systemie IBM 360. ZE Elwro miały produkować maszynę R30, ostatecznie zaprojektowano i produkowano maszynę R32, znacznie nowocześniejszą i o wyższych parametrach niż R30. Wyprodukowano ponad 150 maszyn tego typu. Zapoczątkowało to nowy okres w historii zakładów Elwro, który zakończył się... całkowitym zaprzestaniem produkcji komputerów w Polsce."
+    }
+]
