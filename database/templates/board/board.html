@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block page_content %}
+<h2>{{ board.no }}{{ board.page }} {{ board.title }}</h2>
+<div>
+    {% for section in board.sections.all %}
+        <div>
+            <p>{{ section.title }}</p>
+            <p>{{ section.text }}</p>
+        </div>
+    {% endfor %}
+</div>
+{% endblock %}

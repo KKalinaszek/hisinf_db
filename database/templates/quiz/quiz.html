@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block page_content %}
+<h2>{{ board.no }}{{ board.page }} {{ board.title }}</h2>
+<div>
+    {% for question in questions %}
+        <p>{{ question.question }}</p>
+        <ul>
+            {% for answer in question.answers.all %}
+                <li>{{ answer.answer }} ({{ answer.correct }})</li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+</div>
+{% endblock %}
