@@ -1,0 +1,82 @@
+[
+    {
+      "model": "database.event",
+      "pk": 1,
+      "fields": {
+        "name": "Dni Otwarte",
+        "prizes": [1, 2, 3]
+      }
+    },
+    {
+      "model": "database.event",
+      "pk": 2,
+      "fields": {
+        "name": "Gumowa Kaczka",
+        "prizes": [4, 5, 6]
+      }
+    },
+    {
+      "model": "database.event",
+      "pk": 3,
+      "fields": {
+        "name": "Wielki Turniej",
+        "prizes": [7, 8, 9]
+      }
+    },
+    {
+      "model": "database.event",
+      "pk": 4,
+      "fields": {
+        "name": "Magiczny Wieczór",
+        "prizes": [10]
+      }
+    },
+    {
+      "model": "database.event",
+      "pk": 5,
+      "fields": {
+        "name": "Sztuka i Kultura",
+        "prizes": [2, 4, 6]
+      }
+    },
+    {
+      "model": "database.event",
+      "pk": 6,
+      "fields": {
+        "name": "Wyścig Samochodowy",
+        "prizes": [1, 5, 9]
+      }
+    },
+    {
+      "model": "database.event",
+      "pk": 7,
+      "fields": {
+        "name": "Kulinarne Smaki",
+        "prizes": [3, 7, 8]
+      }
+    },
+    {
+      "model": "database.event",
+      "pk": 8,
+      "fields": {
+        "name": "Zabawa na Plaży",
+        "prizes": [6, 9, 10]
+      }
+    },
+    {
+      "model": "database.event",
+      "pk": 9,
+      "fields": {
+        "name": "Przygoda w Lesie",
+        "prizes": [1, 3, 5]
+      }
+    },
+    {
+      "model": "database.event",
+      "pk": 10,
+      "fields": {
+        "name": "Sportowe Wyzwania",
+        "prizes": [2, 7, 10]
+      }
+    }
+  ]

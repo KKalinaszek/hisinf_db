@@ -1,0 +1,92 @@
+[
+    {
+      "model": "database.prize",
+      "pk": 1,
+      "fields": {
+        "name": "Enchanted Amulet",
+        "description": "A mystical amulet that grants special powers.",
+        "points": 100
+      }
+    },
+    {
+      "model": "database.prize",
+      "pk": 2,
+      "fields": {
+        "name": "Adventure Pack",
+        "description": "A bundle of essential gear for thrilling adventures.",
+        "points": 200
+      }
+    },
+    {
+      "model": "database.prize",
+      "pk": 3,
+      "fields": {
+        "name": "Whimsical Wand",
+        "description": "A magical wand that conjures whimsy and wonder.",
+        "points": 150
+      }
+    },
+    {
+      "model": "database.prize",
+      "pk": 4,
+      "fields": {
+        "name": "Treasure Chest",
+        "description": "A chest filled with precious gems and artifacts.",
+        "points": 180
+      }
+    },
+    {
+      "model": "database.prize",
+      "pk": 5,
+      "fields": {
+        "name": "Time Travel Watch",
+        "description": "A watch that allows you to travel through time.",
+        "points": 120
+      }
+    },
+    {
+      "model": "database.prize",
+      "pk": 6,
+      "fields": {
+        "name": "Rainbow Umbrella",
+        "description": "An umbrella that creates a beautiful rainbow overhead.",
+        "points": 250
+      }
+    },
+    {
+      "model": "database.prize",
+      "pk": 7,
+      "fields": {
+        "name": "Gourmet Cookbook",
+        "description": "A collection of exquisite recipes from renowned chefs.",
+        "points": 160
+      }
+    },
+    {
+      "model": "database.prize",
+      "pk": 8,
+      "fields": {
+        "name": "Labyrinth Puzzle",
+        "description": "A challenging puzzle that leads to hidden treasures.",
+        "points": 220
+      }
+    },
+    {
+      "model": "database.prize",
+      "pk": 9,
+      "fields": {
+        "name": "Magical Quill",
+        "description": "A quill that writes with enchanted ink and reveals secrets.",
+        "points": 190
+      }
+    },
+    {
+      "model": "database.prize",
+      "pk": 10,
+      "fields": {
+        "name": "Cosmic Telescope",
+        "description": "A telescope that allows you to explore distant galaxies.",
+        "points": 210
+      }
+    }
+  ]

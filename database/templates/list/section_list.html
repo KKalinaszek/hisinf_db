@@ -21,7 +21,7 @@
           <td>{{ section.no }}</td>
           <td>{{ section.page }}</td>
           <td>{{ section.title }}</td>
-          <td>{{ section.text }}</td>
+          <td>{{ section.text|truncatechars:50 }}</td>
           <td>{{ section.board_id }}</td>
         </tr>
         {% endfor %}

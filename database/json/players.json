@@ -1,0 +1,82 @@
+[
+    {
+        "model": "database.player",
+        "pk": 1,
+        "fields": {
+            "username": "player1",
+            "points": 100
+        }
+    },
+    {
+        "model": "database.player",
+        "pk": 2,
+        "fields": {
+            "username": "player2",
+            "points": 50
+        }
+    },
+    {
+        "model": "database.player",
+        "pk": 3,
+        "fields": {
+            "username": "player3",
+            "points": 200
+        }
+    },
+    {
+        "model": "database.player",
+        "pk": 4,
+        "fields": {
+            "username": "player4",
+            "points": 75
+        }
+    },
+    {
+        "model": "database.player",
+        "pk": 5,
+        "fields": {
+            "username": "player5",
+            "points": 150
+        }
+    },
+    {
+        "model": "database.player",
+        "pk": 6,
+        "fields": {
+            "username": "player6",
+            "points": 250
+        }
+    },
+    {
+        "model": "database.player",
+        "pk": 7,
+        "fields": {
+            "username": "player7",
+            "points": 80
+        }
+    },
+    {
+        "model": "database.player",
+        "pk": 8,
+        "fields": {
+            "username": "player8",
+            "points": 300
+        }
+    },
+    {
+        "model": "database.player",
+        "pk": 9,
+        "fields": {
+            "username": "player9",
+            "points": 120
+        }
+    },
+    {
+        "model": "database.player",
+        "pk": 10,
+        "fields": {
+            "username": "player10",
+            "points": 180
+        }
+    }
+]
