@@ -15,7 +15,7 @@ class Board(models.Model):
 
     def __str__(self):
         return self.title
-    
+
     class Meta:
         verbose_name_plural = 'Boards'
         unique_together = ('no', 'page')
@@ -34,7 +34,7 @@ class Section(models.Model):
 
     class Meta:
         verbose_name_plural = 'Sections'
-    
+
 # 3
 class Question(models.Model):
     id = models.AutoField(primary_key=True)
@@ -56,7 +56,7 @@ class Answer(models.Model):
     def __str__(self):
         return self.answer
 
-# 5 ? 
+# 5 ?
 class Mp3File(models.Model):
     id = models.AutoField(primary_key=True)
     board = models.ForeignKey(Board, on_delete=models.CASCADE, related_name='mp3_files')
@@ -77,5 +77,30 @@ class Player(models.Model):
     def __str__(self):
         return self.username
 
+    class Meta:
+        verbose_name_plural = 'Players'
 
 
+class Prize(models.Model):
+    id = models.AutoField(primary_key=True)
+    name = models.CharField(max_length=25, unique=True, default="")
+    description = models.TextField(max_length=250, unique=True, default="")
+    points = models.IntegerField(default=0)
+
+    def __str__(self):
+        return self.name
+
+    class Meta:
+        verbose_name_plural = 'Prizes'
+
+
+class Event(models.Model):
+    id = models.AutoField(primary_key=True)
+    name = models.CharField(max_length=25, unique=True, default="")
+    prizes = models.ManyToManyField(Prize, related_name='events')
+
+    def __str__(self):
+        return self.name
+
+    class Meta:
+        verbose_name_plural = 'Events'

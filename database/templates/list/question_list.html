@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% load static %}
+{% block page_content %}
+<div class="container">
+  <h1>Questions</h1>
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">No</th>
+      <th scope="col">Page</th>
+      <th scope="col">Question</th>
+      <th scope="col">Board</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for question in questions %}
+    <tr>
+      <th scope="row">{{ question.id }}</td>
+      <td>{{ question.no }}</td>
+      <td>{{ question.page }}</td>
+      <td>{{ question.question }}</td>
+      <td>{{ question.board_id }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endblock %}

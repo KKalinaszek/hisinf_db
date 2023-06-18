@@ -1,5 +1,5 @@
 from django.contrib import admin
-from database.models import Board, Section, Question, Answer, Mp3File
+from database.models import Board, Section, Question, Answer, Mp3File, Prize, Player, Event
 from import_export import resources
 from import_export.admin import ImportExportModelAdmin
 import json
@@ -96,3 +96,38 @@ class Mp3FileAdmin(ImportExportModelAdmin):
     resource_class = Mp3FileResource
 
 admin.site.register(Mp3File, Mp3FileAdmin)
+
+
+# Player
+class PlayerResource(resources.ModelResource):
+    class Meta:
+        model = Player
+        fields = ('id', 'username', 'points')
+
+class PlayerAdmin(ImportExportModelAdmin):
+    resource_class = PlayerResource
+
+admin.site.register(Player, PlayerAdmin)
+
+# Prize
+class PrizeResource(resources.ModelResource):
+    class Meta:
+        model = Prize
+        fields = ('id', 'name', 'description', 'points')
+
+class PrizeAdmin(ImportExportModelAdmin):
+    resource_class = PrizeResource
+
+admin.site.register(Prize, PrizeAdmin)
+
+# Event
+class EventResource(resources.ModelResource):
+    class Meta:
+        model = Event
+        fields = ('id', 'name', 'prizes')
+
+class EventAdmin(ImportExportModelAdmin):
+    resource_class = EventResource
+
+admin.site.register(Event, EventAdmin)
+

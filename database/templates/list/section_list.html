@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% load static %}
+{% block page_content %}
+<div class="container">
+  <h1>Sections</h1>
+    <table class="table">
+      <thead class="thead-dark">
+        <tr>
+          <th scope="col">ID</th>
+          <th scope="col">No</th>
+          <th scope="col">Page</th>
+          <th scope="col">Title</th>
+          <th scope="col">Text</th>
+          <th scope="col">Board</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for section in sections %}
+        <tr>
+          <th scope="row">{{ section.id }}</td>
+          <td>{{ section.no }}</td>
+          <td>{{ section.page }}</td>
+          <td>{{ section.title }}</td>
+          <td>{{ section.text }}</td>
+          <td>{{ section.board_id }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+</div>
+{% endblock %}

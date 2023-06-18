@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% load static %}
+{% block page_content %}
+<div class="container">
+  <h1>MP3 Files</h1>
+    <table class="table">
+      <thead class="thead-dark">
+        <tr>
+          <th scope="col">ID</th>
+          <th scope="col">Board</th>
+          <th scope="col">URL</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for mp3file in mp3files %}
+        <tr>
+          <th scope="row">{{ mp3file.id }}</td>
+          <td>{{ mp3file.board }}</td>
+          <td>{{ mp3file.url }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+</div>
+{% endblock %}

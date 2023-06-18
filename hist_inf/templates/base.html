@@ -15,10 +15,28 @@
               <a class="nav-link" href="{% url 'home' %}">Strona Główna</a>
             </li>
             <li class="nav-item {% if request.path == '/quiz/' %}active{% endif %}">
-              <a class="nav-link" href="{% url 'quiz_menu' %}">Quiz</a>
+              <a class="nav-link" href="{% url 'question_list' %}">Pytania</a>
+            </li>
+            <li class="nav-item {% if request.path == '/quiz/' %}active{% endif %}">
+              <a class="nav-link" href="{% url 'answer_list' %}">Odpowiedzi</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link {% if request.path == '/board/' %}active{% endif %}" href="{% url 'board_menu' %}">Tablice</a>
+              <a class="nav-link {% if request.path == '/board/' %}active{% endif %}" href="{% url 'board_list' %}">Tablice</a>
+            </li>
+            <li class="nav-item {% if request.path == '/quiz/' %}active{% endif %}">
+              <a class="nav-link" href="{% url 'mp3file_list' %}">Mp3</a>
+            </li>
+            <li class="nav-item {% if request.path == '/quiz/' %}active{% endif %}">
+              <a class="nav-link" href="{% url 'player_list' %}">Gracze</a>
+            </li>
+            <li class="nav-item {% if request.path == '/quiz/' %}active{% endif %}">
+              <a class="nav-link" href="{% url 'section_list' %}">Sekcje</a>
+            </li>
+            <li class="nav-item {% if request.path == '/quiz/' %}active{% endif %}">
+              <a class="nav-link" href="{% url 'prize_list' %}">Nagrody</a>
+            </li>
+            <li class="nav-item {% if request.path == '/quiz/' %}active{% endif %}">
+              <a class="nav-link" href="{% url 'event_list' %}">Wydarzenia</a>
             </li>
           </ul>
         </div>
